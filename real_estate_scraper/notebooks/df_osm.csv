@@ -1,0 +1,1831 @@
+lat,lon,osm_category,osm_type,place_name
+44.316171,-72.1134288,amenity,school,four corners school
+44.2778384,-72.1575957,amenity,school,walter harvey school
+39.9574577,-82.9420631,amenity,restaurant,moshi sushi
+39.9573654,-82.9382879,amenity,restaurant,giuseppe's ritrovo
+39.9573128,-82.9319615,amenity,restaurant,noahla
+39.9572524,-82.9347999,amenity,restaurant,khaab indian kitchen & bar
+39.9567684,-82.9359547,amenity,restaurant,anthony's pizzeria
+39.956564,-82.9277692,amenity,restaurant,bexley pizza plus
+39.9566217,-82.9280846,amenity,restaurant,rubino's pizzeria
+39.9567978,-82.931334,amenity,restaurant,bexley premier restaurant
+39.9568077,-82.9331763,amenity,restaurant,cafe instanbul
+39.9573558,-82.9385913,amenity,restaurant,newfangled kitchen
+39.9483918,-82.938323,amenity,restaurant,peking dynasty express
+39.9572861,-82.9348931,amenity,restaurant,zen cha cafe & tea
+39.9574342,-82.939394,amenity,restaurant,market district kitchen & bar
+39.9572418,-82.9345684,leisure,fitness_centre,snap fitness
+-33.9498957,151.1268055,leisure,fitness_centre,anytime fitness
+32.9124773,-87.1935068,amenity,restaurant,sawmeal restaurant
+32.9605025,-87.1692542,leisure,fitness_centre,fit life
+53.1109102,-6.1048592,highway,bus_stop,kilpedder
+39.0833778,-84.5601654,highway,bus_stop,shelby st & main st
+39.0839729,-84.5593262,highway,bus_stop,shelby st & pleasant st
+39.0832787,-84.5587921,highway,bus_stop,boone st & pleasant st
+39.0828514,-84.5609589,highway,bus_stop,shelby st & steve tanner st
+39.0823898,-84.5600967,highway,bus_stop,boone st & steve tanner st
+39.0845798,-84.5585701,highway,bus_stop,oak at pleasant
+36.0717262,-88.1080933,amenity,school,benton county career and technical center
+34.2471326,-80.6119444,amenity,school,continuous learning center
+39.9320573,-75.1218423,amenity,school,bergen square school
+39.9501873,-75.0844539,amenity,school,catto elementary school
+39.9450022,-75.0837373,amenity,school,cramer elementary school
+39.9528727,-75.0766095,amenity,school,davis elementary school
+39.9330962,-75.1243512,amenity,school,lanning square elementary school
+39.9546599,-75.1135745,amenity,school,mastery high school
+39.9223599,-75.1037486,amenity,school,unknown
+39.9453906,-75.1173977,amenity,school,saint marys school
+39.9342796,-75.1190643,amenity,school,saints peter and paul school
+39.9242302,-75.1117904,amenity,school,unknown
+39.9324556,-75.1139199,amenity,school,j g whittier elementary school
+39.9329905,-75.1246399,amenity,school,fetters alternative high school
+39.9231,-75.1187,amenity,school,mickle elementary school
+39.9331564,-75.1189745,amenity,school,south camden alternative middle school
+39.904509,-75.1050197,amenity,school,yorkship elementary school
+39.9333576,-75.1215422,amenity,school,unknown
+39.9350956,-75.1222851,amenity,school,hope community charter school
+39.9231433,-75.1183549,amenity,school,creative arts high school
+39.9049284,-75.101017,amenity,school,freedom academy charter school
+39.9453272,-75.1157737,amenity,school,environment community opportunity charter school
+39.9293488,-75.1095823,amenity,school,distinctions in urban education season charter school
+39.9223744,-75.1210536,amenity,school,unknown
+39.9463481,-75.0914751,amenity,school,dudley elementary school
+39.9520563,-75.1189514,amenity,school,holy name school
+39.9466084,-75.11715,amenity,school,leap academy university charter school
+39.9237622,-75.0954196,amenity,school,unknown
+39.9463217,-75.0915276,amenity,school,early childhood development center school
+44.2075789,-69.066426,amenity,school,elm street school
+32.0029255,-87.305824,amenity,school,wilcox academy
+33.5870581,-92.8384961,amenity,school,cleveland avenue school
+33.5756697,-92.8315515,amenity,school,lincoln high school
+33.5742809,-92.8204403,amenity,school,nelson school
+33.5315024,-92.8422736,amenity,school,fairview elementary school
+-34.0539764,150.6978983,amenity,restaurant,fan thai
+34.2519711,-80.6427406,amenity,restaurant,hong kong buffet
+34.2456169,-80.613542,amenity,restaurant,ginza
+39.9516877,-75.0760658,amenity,restaurant,new ho ho restaurant
+39.9520319,-75.0756097,amenity,restaurant,los playeros restaurant
+39.9271159,-75.1062343,amenity,restaurant,crown fried chicken
+34.2423111,-80.6150825,amenity,school,kershaw county school district continuous learning center
+39.9122188,-75.0995255,amenity,restaurant,great wall
+39.9459021,-75.1213683,amenity,restaurant,shirley's brass rail
+39.9467617,-75.1233692,amenity,restaurant,fresh fruits & salads
+39.9462476,-75.1232298,amenity,restaurant,cafe and salad works
+39.9463915,-75.1241581,amenity,restaurant,george's restaurant
+39.9528604,-75.1139171,amenity,restaurant,tony & ruth's steaks
+39.9482874,-75.1228057,amenity,restaurant,rutgers dining hall
+39.9442292,-75.1298484,amenity,restaurant,vitarelli's on the delaware cafe / bistro
+39.9416732,-75.1161457,amenity,restaurant,oasis restaurant
+39.9414109,-75.1166042,amenity,restaurant,cooper court
+39.9556884,-75.1014035,amenity,restaurant,the kroc cafe
+39.9315027,-75.1088079,amenity,restaurant,el castillo restaurant
+39.9338469,-75.1057526,amenity,restaurant,dk's soul food
+39.9315403,-75.1016944,amenity,restaurant,corinne's
+39.9529308,-75.0967571,amenity,restaurant,arelis restaurant
+39.9466528,-75.0856093,amenity,restaurant,el metate
+39.9497561,-75.0795772,amenity,restaurant,new shanghai
+39.9515584,-75.0771016,amenity,restaurant,pho tan phat
+39.9460762,-75.0903796,amenity,restaurant,su casa quetzal
+39.9460566,-75.0905164,amenity,restaurant,crown fried chicken
+39.9461327,-75.0904667,amenity,restaurant,great taste 2
+39.9459981,-75.0910553,amenity,restaurant,los tacos
+39.9455929,-75.0921204,amenity,restaurant,jaritza restaurant
+39.9460258,-75.088746,amenity,restaurant,san lucas
+39.9461164,-75.0878757,amenity,restaurant,golden dragon
+39.9424286,-75.0864117,amenity,restaurant,great wall
+39.9122656,-75.1129004,amenity,restaurant,el paraiso restaurant
+39.9223187,-75.0897947,amenity,restaurant,unknown
+39.9041972,-75.1035611,amenity,restaurant,los chulos
+39.9044617,-75.1027136,amenity,restaurant,bruno steaks pizza
+44.2096522,-69.0661399,amenity,restaurant,long grain
+44.208605,-69.062948,amenity,restaurant,waterfront restaurant
+44.210463,-69.064622,amenity,restaurant,marriner's restaurant
+44.2058432,-69.0615328,amenity,restaurant,natalie's
+39.9354861,-75.1227588,amenity,restaurant,ana's pizzeria
+36.0502955,-88.0955578,amenity,restaurant,country & western steak house
+44.209809,-69.064576,amenity,restaurant,sea dog brewing co.
+39.1016458,-75.5435767,amenity,restaurant,applebee's
+39.1002179,-75.5441936,amenity,restaurant,bob evans
+39.9449202,-75.1209174,amenity,restaurant,ck café at the lunchbox
+39.9439821,-75.1026643,amenity,restaurant,ck café
+39.096038,-75.5462026,amenity,restaurant,cheddar's
+39.0988207,-75.544953,amenity,restaurant,texas roadhouse
+39.9328796,-75.1161981,amenity,restaurant,el nuevo areno
+39.9520236,-75.1152234,amenity,restaurant,la posada restaurant & ice cream parlor
+39.9392111,-75.0930169,amenity,restaurant,golden pearl chinese restaurant
+39.9432952,-75.0919483,amenity,school,youthbuild
+39.9457799,-75.0925453,amenity,restaurant,reggae grill
+39.9603006,-75.0861002,amenity,restaurant,la chamoyada jalisco
+39.9475414,-75.074647,amenity,restaurant,italini's pizza & grill
+39.9495029,-75.0889654,amenity,restaurant,27th st food trailer
+39.9487825,-75.0883663,amenity,restaurant,la calpena
+-34.0564304,150.6938116,amenity,restaurant,asian takeaway
+-34.0556213,150.6941796,amenity,restaurant,unknown
+44.2099935,-69.0676611,amenity,restaurant,smokestack grill
+44.2099007,-69.0646256,amenity,restaurant,cappys chowder house
+44.2389658,-69.1035108,amenity,restaurant,unknown
+-34.0536863,150.6974322,amenity,restaurant,thai restaurant
+-34.0559956,150.6935427,amenity,restaurant,chola indian restaurant
+34.2198354,-80.5957048,amenity,restaurant,waffle house
+34.2466855,-80.5985714,amenity,restaurant,ming's buffet
+34.2462628,-80.6066021,amenity,restaurant,camden house of pizza
+34.2461211,-80.60691,amenity,restaurant,steeplechase sports bar & grill
+34.2459877,-80.6072852,amenity,restaurant,sam kendall's
+34.2452039,-80.6072051,amenity,restaurant,salud mexican kitchen & tequila lounge
+34.244491,-80.6071003,amenity,restaurant,flavors buffet & grill
+44.2094301,-69.0632506,amenity,restaurant,peter ott's on the water
+44.2092819,-69.0609504,amenity,restaurant,salt wharf
+39.1078118,-75.540959,amenity,restaurant,grotto pizza
+39.9085103,-75.0993816,shop,supermarket,save-a-lot
+39.9321099,-75.1192953,leisure,fitness_centre,broadway fitness
+44.2097429,-69.0651136,shop,supermarket,french & brawn market
+39.9335689,-75.0974468,leisure,fitness_centre,unknown
+39.9232903,-75.1082676,shop,supermarket,the new village supermarket
+39.9525969,-75.0803832,shop,supermarket,compare foods
+33.5754709,-92.853449,shop,supermarket,brookshire's
+34.274621,-80.6105019,shop,supermarket,food lion
+34.2477098,-80.5937715,shop,supermarket,unknown
+39.9430252,-75.1196234,railway,station,broadway
+-34.0539721,150.695552,highway,bus_stop,john st before argyle st
+-34.0662745,150.6937905,highway,bus_stop,unknown
+-34.0658685,150.6934971,highway,bus_stop,unknown
+-34.0630484,150.6938615,highway,bus_stop,"camden hospital, menangle rd"
+-34.0611809,150.6952478,highway,bus_stop,unknown
+-34.0589253,150.6964304,highway,bus_stop,unknown
+-34.0586762,150.6963605,highway,bus_stop,"macarthur park, menangle rd"
+-34.0536843,150.6976726,highway,bus_stop,argyle st at elizabeth st
+-34.0568591,150.6941978,highway,bus_stop,murray st opp centrelink
+39.9456122,-75.1211073,railway,station,city hall
+-34.068549,150.6942805,highway,bus_stop,unknown
+-34.0540848,150.6941511,highway,bus_stop,oxley st after argyle st
+39.9431267,-75.1193686,highway,bus_stop,broadway in front of wrtc
+39.9476406,-75.1248002,railway,station,cooper street–rutgers
+39.9431941,-75.0883833,highway,bus_stop,marlton ave at baird blvd
+39.940886,-75.1284981,railway,station,entertainment center
+39.9454937,-75.121233,railway,subway_entrance,patco city hall
+39.9431738,-75.1195322,railway,subway_entrance,patco broadway
+39.9228482,-75.091974,railway,station,ferry avenue
+39.9486584,-75.117923,highway,bus_stop,unknown
+39.9457414,-75.1187903,highway,bus_stop,unknown
+39.9431709,-75.1203267,railway,station,walter rand transportation center
+39.9456573,-75.1287362,railway,station,adventure aquarium
+34.2481599,-80.6252316,railway,station,camden
+39.9223237,-75.0917308,highway,bus_stop,unknown
+39.9532221,-75.1257898,highway,bus_stop,city lot 16
+39.9518219,-75.1265422,highway,bus_stop,city lot 15
+39.948605,-75.1235435,highway,bus_stop,business and science building
+39.9476149,-75.1206051,highway,bus_stop,law school
+39.9440637,-75.1208867,highway,bus_stop,nursing and science building
+39.9423594,-75.1196613,highway,bus_stop,joint heath sciences center
+-34.0572602,150.6918384,highway,bus_stop,"camden rsl club, cawdor rd"
+-34.0621258,150.6872507,highway,bus_stop,cawdor rd opp sheathers lane
+-34.0527616,150.6942274,highway,bus_stop,"camden public school, mitchell st"
+-34.0533448,150.6951686,highway,bus_stop,"st paul's catholic primary school, john st"
+-34.0719931,150.6946583,highway,bus_stop,old hume hwy at ironbark ave
+-34.0624765,150.6941919,highway,bus_stop,"camden hospital, menangle rd"
+-34.0565524,150.6942527,highway,bus_stop,murray st before broughton st
+-34.0709337,150.694518,highway,bus_stop,"camden south public school, old hume hwy"
+39.9346532,-75.0981219,highway,bus_stop,baird blvd + park blvd
+-34.0532622,150.6976918,highway,bus_stop,elizabeth st at larkin pl
+39.9535685,-75.0923351,highway,bus_stop,27th st + arthur ave
+39.9481194,-75.0881088,highway,bus_stop,27th st + high st
+39.9483318,-75.0880952,highway,bus_stop,27th st + high st
+39.9499119,-75.0894995,highway,bus_stop,27th st + howell st1
+39.9501085,-75.0894807,highway,bus_stop,27th st + howell st
+39.9524976,-75.0915012,highway,bus_stop,27th st + sherman ave
+39.9528646,-75.0916217,highway,bus_stop,unknown
+39.9469194,-75.0871897,highway,bus_stop,unknown
+39.9467999,-75.0873539,highway,bus_stop,westfield ave at n. 27th st
+39.9470747,-75.0871251,highway,bus_stop,27th st + westfield ave
+39.9457253,-75.0872164,highway,bus_stop,baird blvd + carman st
+39.928445,-75.1218285,highway,bus_stop,atlantic avenue + 4th street
+39.9425468,-75.088474,highway,bus_stop,baird blvd + marlton ave
+39.9426231,-75.0875799,highway,bus_stop,unknown
+39.9421535,-75.0865037,highway,bus_stop,marlton pike + thorndyke ave
+39.9423488,-75.0865948,highway,bus_stop,marlton ave at benson st
+39.9432431,-75.0876047,highway,bus_stop,baird blvd + marlton ave
+39.9455486,-75.0928083,highway,bus_stop,federal st at s. 21st st
+39.9452233,-75.0932486,highway,bus_stop,marlton pike + federal st
+39.9449388,-75.0922149,highway,bus_stop,marlton ave at carman st
+39.9444202,-75.0914283,highway,bus_stop,marlton pike + westminster ave
+39.9443985,-75.0910262,highway,bus_stop,marlton ave at westminster st
+39.9334106,-75.096636,highway,bus_stop,unknown
+39.9412549,-75.090153,highway,bus_stop,baird blvd + rand st
+39.9412065,-75.0897333,highway,bus_stop,baird blvd + rand st
+39.9403395,-75.091336,highway,bus_stop,baird blvd + raritan st
+39.9402355,-75.0909963,highway,bus_stop,baird blvd + raritan st
+39.9389295,-75.0925818,highway,bus_stop,admiral wilson blvd at baird blvd. overpass
+39.9406992,-75.1191909,highway,bus_stop,broadway at benson st
+39.9432804,-75.1190981,highway,bus_stop,broadway in front of wrtc
+39.9393266,-75.1194355,highway,bus_stop,broadway at berkeley st
+39.9391218,-75.1192389,highway,bus_stop,broadway at berkeley st
+39.9379322,-75.1194659,highway,bus_stop,broadway at royden st
+39.9377516,-75.119269,highway,bus_stop,broadway at royden st
+39.9365744,-75.1194628,highway,bus_stop,broadway at pine st
+39.9363844,-75.1192998,highway,bus_stop,broadway at pine st
+39.930704,-75.1194018,highway,bus_stop,broadway at kaighn ave
+39.9309531,-75.1195945,highway,bus_stop,broadway at kaighn ave
+39.9309423,-75.119314,highway,bus_stop,kaighn ave + broadway
+39.9322063,-75.1030191,highway,bus_stop,haddon ave at kaighn ave
+39.9321178,-75.1033664,highway,bus_stop,kaighn ave + haddon ave
+39.932064,-75.1023194,highway,bus_stop,kaighn ave + haddon ave
+39.9319602,-75.1024057,highway,bus_stop,haddon ave at kaighn ave
+39.9322642,-75.1013336,highway,bus_stop,kaighn ave + princess ave
+39.9319051,-75.1044203,highway,bus_stop,kaighn ave + louis st
+39.9320213,-75.1047935,highway,bus_stop,kaighn ave + louis st
+39.9315689,-75.1088671,highway,bus_stop,kaighn ave + mt ephraim ave
+39.9316725,-75.1093394,highway,bus_stop,kaighn ave + mt ephraim ave
+39.9313532,-75.1087082,highway,bus_stop,mt. ephraim ave at kaighn ave
+39.9318692,-75.1087405,highway,bus_stop,mt. ephraim ave at kaighn ave
+39.9292206,-75.1076375,highway,bus_stop,mt. ephraim ave at atlantic ave
+39.9294204,-75.1075212,highway,bus_stop,mt. ephraim ave at atlantic ave
+39.9223635,-75.1166062,railway,station,unknown
+-34.0542436,150.6957218,highway,bus_stop,john st camden
+-33.871523,151.1225876,amenity,restaurant,wagyu house
+-37.7717608,145.2947837,amenity,restaurant,piyada thai
+-37.79859,145.2818197,amenity,restaurant,taco bill
+-37.7901941,145.266653,amenity,restaurant,unknown
+-37.7715575,145.294952,amenity,restaurant,sentosa noodle house
+-37.7715956,145.294903,amenity,restaurant,pei ho chinese food
+-37.7963653,145.2567195,amenity,restaurant,royal stacks
+-37.7901328,145.2675631,amenity,restaurant,yen's restaurant
+-37.7902634,145.2673781,amenity,restaurant,carlos cantina
+-33.8835399,151.11672,amenity,restaurant,mario's pizzeria
+-37.7958754,145.2810681,amenity,restaurant,mrt deli
+-37.7969471,145.2807261,amenity,restaurant,little bad wolf
+-37.7967067,145.2807736,amenity,restaurant,la boca frattoria
+-37.7927456,145.2602528,amenity,restaurant,casalinga
+-33.8838707,151.1144672,amenity,restaurant,crust
+-37.794199,145.2791738,shop,supermarket,coles
+-37.7971249,145.2569815,shop,supermarket,coles
+-37.8001309,145.2830309,shop,supermarket,woolworths
+-37.7985307,145.2810421,shop,supermarket,rangoon city mart
+-37.7992807,145.2805145,leisure,fitness_centre,anytime fitness
+-37.7934467,145.2785468,shop,supermarket,aldi
+52.1269003,-0.0826319,highway,bus_stop,the queen adelaide
+52.1268641,-0.0826188,highway,bus_stop,the queen adelaide
+-37.7895694,145.2669338,highway,bus_stop,cherry tree gr/maroondah hwy
+-37.7903014,145.2658316,highway,bus_stop,ryland ave/maroondah hwy
+-37.7919072,145.2620864,highway,bus_stop,unknown
+-37.7923541,145.2620607,highway,bus_stop,unknown
+-37.7786711,145.2940664,highway,bus_stop,golf links rd/dorset rd
+-37.7787672,145.2937747,highway,bus_stop,golf links rd/dorset rd
+-34.8970509,138.5638708,railway,station,croydon
+-34.8987659,138.5628039,highway,bus_stop,stop 10 port road - north east side
+-34.8980034,138.5616057,highway,bus_stop,stop 11 port road - north east side
+-34.8903705,138.5690156,highway,bus_stop,stop 15 south road - west side
+-34.9007391,138.5656878,highway,bus_stop,stop 9 port road - north side
+-33.8873414,151.1132745,highway,bus_stop,greenhills st after liverpool rd
+-33.889549,151.1130141,highway,bus_stop,greenhills st at mills st
+-33.8897863,151.1128859,highway,bus_stop,greenhills st opp mills st
+-37.7753102,145.2946197,highway,bus_stop,the range bvd/dorset rd
+-37.7840695,145.2693613,highway,bus_stop,lipscombe park/kirtain dr
+-37.7839017,145.2695101,highway,bus_stop,lipscombe park/kirtain dr
+-33.8874135,151.1141385,highway,bus_stop,liverpool rd opp st james croydon
+-33.886622,151.1120973,highway,bus_stop,liverpool rd before croydon av
+-33.886715,151.1075142,highway,bus_stop,liverpool rd at badminton rd
+-33.8865496,151.1101313,highway,bus_stop,liverpool rd at brighton st
+-33.8832296,151.1155955,railway,station,croydon
+-18.2025321,142.2393224,railway,station,croydon
+-37.7885722,145.2708237,highway,bus_stop,stirling road / maroondah highway
+-37.7882345,145.2707773,highway,bus_stop,highland ave/maroondah hwy
+-37.787145,145.2747281,highway,bus_stop,kent ave/maroondah hwy
+-37.7950498,145.2825956,highway,bus_stop,main st/lacey st
+-37.7951973,145.2827802,highway,bus_stop,main st/lacey st
+-37.7953403,145.2804193,railway,station,croydon
+-37.7982572,145.2804974,highway,bus_stop,mt dandenong rd
+-37.7995108,145.2786467,highway,bus_stop,lusher rd/mt dandenong rd
+-37.7992268,145.2787446,highway,bus_stop,anzac st/mt dandenong rd
+-37.7987388,145.2830896,highway,bus_stop,civic sq/mt dandenong rd
+-37.7990028,145.2834476,highway,bus_stop,arndale sc/mt dandenong rd
+-37.7990996,145.2860246,highway,bus_stop,norton rd/mt dandenong rd
+-37.7992989,145.2857584,highway,bus_stop,norton rd/mt dandenong rd
+-37.7993715,145.2881111,highway,bus_stop,alfrick rd/mt dandenong rd
+-37.7997004,145.2886867,highway,bus_stop,dorset rd/mt dandenong rd
+-37.7829275,145.2677585,highway,bus_stop,sandgate ave/plymouth rd
+-37.7947991,145.2568674,highway,bus_stop,maroondah hwy/kalinda rd
+-37.7947285,145.2566833,highway,bus_stop,grayling cres/kalinda rd
+-37.793977,145.2591549,highway,bus_stop,maggs st/maroondah hwy
+-37.7943352,145.2592505,highway,bus_stop,wilhelmina ct/maroondah hwy
+-37.7998514,145.2676862,highway,bus_stop,clegg ave/mt. dandenong rd
+-37.8001099,145.2658414,highway,bus_stop,ross rd/mt. dandenong rd
+-37.8003591,145.2668883,highway,bus_stop,clegg ave/mt. dandenong rd
+-37.8009831,145.2626716,highway,bus_stop,kirra ct/mt. dandenong rd
+-37.8005983,145.2626201,highway,bus_stop,diana st/mt. dandenong rd
+-37.7873768,145.2757476,highway,bus_stop,maroondah hwy/kent ave
+-37.7875457,145.2760637,highway,bus_stop,eva ct/kent ave
+-37.7925824,145.2559708,highway,bus_stop,23 kalinda rd
+-37.7927104,145.2561752,highway,bus_stop,26 kalinda rd
+-37.7715303,145.2956131,highway,bus_stop,dorset road/bellara drive
+-37.7714701,145.2947269,highway,bus_stop,dorset rd/maroondah hwy
+-37.7714222,145.2958198,highway,bus_stop,karnak close/bellara drive
+-37.7889617,145.2826518,highway,bus_stop,surrey rd w/croydon rd
+-37.7846681,145.275809,highway,bus_stop,maroondah hwy/yarra rd
+-37.7842159,145.2837918,highway,bus_stop,ann st/croydon rd
+-37.7843445,145.2839493,highway,bus_stop,clement cres/croydon rd
+-37.7811084,145.2882629,highway,bus_stop,bonnie view rd/maroondah hwy
+-37.7832653,145.2707258,highway,bus_stop,midhurst rd/plymouth rd
+-37.7782909,145.2923025,highway,bus_stop,golf links rd/maroondah hwy
+-37.7748115,145.2930679,highway,bus_stop,primrose rd/maroondah hwy
+-37.7760649,145.2942799,highway,bus_stop,the range bvd/dorset rd
+-37.7861686,145.2924075,highway,bus_stop,monkami training centre/dorset rd
+-37.7860085,145.2925984,highway,bus_stop,lincoln rd/dorset rd
+-37.8129106,145.2879672,highway,bus_stop,eastfield rd/dorset rd
+-37.8109317,145.2883317,highway,bus_stop,prospect hill rd/dorset rd
+-37.8108737,145.2880492,highway,bus_stop,prospect hill rd/dorset rd
+-37.8074937,145.2709198,highway,bus_stop,ronald rd/bayswater rd
+-37.8079896,145.2708943,highway,bus_stop,ronald rd/bayswater rd
+-37.8037385,145.2842347,highway,bus_stop,leigh rd/norton rd
+-37.8040531,145.2843021,highway,bus_stop,leigh rd/norton rd
+-37.8003937,145.2850216,highway,bus_stop,swinburne tafe/norton rd
+-37.8006942,145.2851003,highway,bus_stop,swinburne tafe/norton rd
+-37.8058508,145.2831995,highway,bus_stop,taylors rd/jesmond rd
+-37.8052049,145.2834558,highway,bus_stop,9 jesmond rd
+-37.8076002,145.2828458,highway,bus_stop,dorothy st/jesmond rd
+-37.8079222,145.2828887,highway,bus_stop,dorothy st/jesmond rd
+-37.8112303,145.2827051,highway,bus_stop,araluen dr/jesmond rd
+-37.8112346,145.2825999,highway,bus_stop,araluen dr/jesmond rd
+-37.8049936,145.2723584,highway,bus_stop,vinter ave/bayswater rd
+-37.8048429,145.2722525,highway,bus_stop,yarraduct pl/bayswater rd
+-37.8018208,145.2736296,highway,bus_stop,mt. dandenong rd/bayswater rd
+-37.8018286,145.2740157,highway,bus_stop,mt. dandenong rd/bayswater rd
+-37.7933371,145.2797889,highway,bus_stop,croydon ps/kent ave
+-37.794189,145.2809811,highway,bus_stop,croydon ps/kent ave
+-37.8003583,145.2716217,highway,bus_stop,wicklow ave/mt. dandenong rd
+-37.8006216,145.2713914,highway,bus_stop,wicklow ave/mt. dandenong rd
+-37.7896152,145.2767589,highway,bus_stop,somerset cres/kent ave
+-37.7903353,145.2768372,highway,bus_stop,somerset cres/kent ave
+-37.7969729,145.2772816,highway,bus_stop,glenora ave/wicklow ave
+-37.7971191,145.2772964,highway,bus_stop,glenora ave/wicklow ave
+-37.7988676,145.2748738,highway,bus_stop,mingara ret village/wicklow ave
+-37.7982413,145.2753419,highway,bus_stop,mingara ret village/wicklow ave
+-37.7958228,145.2872279,highway,bus_stop,sturt st/lacey st
+-37.7957224,145.2873265,highway,bus_stop,sturt st/lacey st
+-37.7969112,145.2888647,highway,bus_stop,lacey st/hewish rd
+-37.7971151,145.2894192,highway,bus_stop,dorset rd/hewish rd
+-37.7972615,145.2800969,highway,bus_stop,main st/devon st
+-37.8005418,145.2894637,highway,bus_stop,mt dandenong rd/dorset rd
+-37.8007604,145.2897556,highway,bus_stop,mt dandenong rd/dorset rd
+-37.8038098,145.288914,highway,bus_stop,dorset lodge residential care/dorset rd
+-37.8038008,145.2891999,highway,bus_stop,dorset lodge residential care/dorset rd
+-37.8064968,145.2883667,highway,bus_stop,parry st/dorset rd
+-37.8064778,145.2886585,highway,bus_stop,parry st/dorset rd
+-37.8087749,145.2880785,highway,bus_stop,frederick st/dorset rd
+-37.8091503,145.2884378,highway,bus_stop,frederick st/dorset rd
+-37.7870179,145.2730236,highway,bus_stop,maroondah hwy/midhurst rd
+-37.7869835,145.2731302,highway,bus_stop,maroondah hwy/midhurst rd
+-37.7857942,145.2723685,highway,bus_stop,heathfield ct/midhurst rd
+-37.7854802,145.2720521,highway,bus_stop,arundel st/midhurst rd
+-37.7931983,145.2816427,highway,bus_stop,croydon ps/croydon rd
+-37.7925952,145.2819753,highway,bus_stop,croydon ps/croydon rd
+-37.7899293,145.2826018,highway,bus_stop,samuel st/croydon rd
+-37.7867349,145.2832006,highway,bus_stop,grandview ave/croydon rd
+-37.7865587,145.2833874,highway,bus_stop,grandview ave/croydon rd
+-33.8730033,151.1258375,highway,bus_stop,parramatta rd at croydon rd
+-33.8712468,151.1209942,highway,bus_stop,parramatta rd after byron st
+-33.8709164,151.1181849,highway,bus_stop,parramatta rd at alfred st
+-33.8699932,151.1133661,highway,bus_stop,parramatta rd at cheltenham rd
+-33.8865924,151.1075232,highway,bus_stop,liverpool rd at devonshire st
+-33.886479,151.1096691,highway,bus_stop,liverpool rd opp brighton st
+-33.8864025,151.1111296,highway,bus_stop,liverpool rd at malvern av
+-33.8869016,151.1133806,highway,bus_stop,liverpool rd at edwin st
+-33.8878892,151.1153524,highway,bus_stop,liverpool rd at wetherill st
+-37.7885808,145.2921081,highway,bus_stop,newhaven lane/dorset rd
+-37.788592,145.2919467,highway,bus_stop,newhaven lane/dorset rd
+-37.7916971,145.2915025,highway,bus_stop,moore ave/dorset rd
+-37.7914369,145.2913875,highway,bus_stop,neil st/dorset rd
+-37.7942051,145.291017,highway,bus_stop,haig st/dorset rd
+-37.7947467,145.2907417,highway,bus_stop,jackson st/dorset rd
+-37.7827883,145.2931853,highway,bus_stop,malseed st/dorset rd
+-37.7827953,145.2930262,highway,bus_stop,malseed st/dorset rd
+-37.7959994,145.2937931,highway,bus_stop,henty ct/hull rd
+-37.7959295,145.2936678,highway,bus_stop,glamis ct/hull rd
+-37.7997317,145.2910914,highway,bus_stop,donald st/mt dandenong rd
+-37.7999841,145.2910922,highway,bus_stop,gordon st/mt dandenong rd
+-37.8004515,145.2952684,highway,bus_stop,ruskin ave/mt dandenong rd
+-37.8002361,145.2953375,highway,bus_stop,ruskin ave/mt dandenong rd
+-37.8010706,145.3027783,highway,bus_stop,churchill way/mt dandenong rd
+-37.8007599,145.2998805,highway,bus_stop,jarvis ave/mt dandenong rd
+-37.8010074,145.3001688,highway,bus_stop,the oaks/mt dandenong rd
+-37.7904218,145.3078461,highway,bus_stop,mooroolbark bowls club/hull rd
+-37.7945969,145.2979621,highway,bus_stop,silverley rd/hull rd
+-37.7944546,145.2981974,highway,bus_stop,kincumber dr/hull rd
+-37.7941267,145.3012061,highway,bus_stop,kurrajong ave/hull rd
+-37.7936437,145.3017722,highway,bus_stop,kurrajong ave/hull rd
+-37.7916599,145.305628,highway,bus_stop,nuraylia ave/hull rd
+-37.7911765,145.3063207,highway,bus_stop,mcilraith ct/hull rd
+-33.8746053,151.1245372,highway,bus_stop,croydon rd after sunbeam av
+-33.8759575,151.1226747,highway,bus_stop,church st after croydon rd
+-33.8754097,151.1187701,highway,bus_stop,"centenary park, church st"
+-33.8766594,151.1176454,highway,bus_stop,queen st after robinson st
+-33.8763564,151.1153072,highway,bus_stop,queen st opp blair park
+-33.8759487,151.1125426,highway,bus_stop,queen st opp burwood girls high school
+-33.8837769,151.1085432,highway,bus_stop,devonshire st after murray st
+-33.8864712,151.1080228,highway,bus_stop,devonshire st at liverpool rd
+-33.8911193,151.1128337,highway,bus_stop,greenhills st at arthur st
+-33.8916357,151.1126705,highway,bus_stop,greenhills st at arthur st
+-33.8870224,151.1131976,highway,bus_stop,greenhills st at liverpool rd
+-33.8858792,151.1080275,highway,bus_stop,devonshire st after liverpool rd
+-33.8836891,151.1084382,highway,bus_stop,devonshire st at murray st
+-33.8758779,151.1125552,highway,bus_stop,"burwood girls high school, queen st"
+-33.8760861,151.1139409,highway,bus_stop,queen st opp webb st
+-33.8763006,151.115603,highway,bus_stop,"blair park, queen st"
+-33.8763271,151.1182488,highway,bus_stop,lang st after queen st
+-33.8753346,151.1189566,highway,bus_stop,church st opp centenary park
+-33.8758661,151.1226971,highway,bus_stop,church st at croydon rd
+-33.8740959,151.124937,highway,bus_stop,croydon rd at dalmar st
+-37.7954443,145.2808909,highway,bus_stop,croydon station (bay j)
+-37.7955712,145.2807454,highway,bus_stop,croydon station (bay i)
+-37.7956915,145.2805332,highway,bus_stop,croydon station (bay h)
+-37.7950669,145.2812154,highway,bus_stop,croydon station (bay k)
+-37.7952276,145.2808911,highway,bus_stop,croydon station (bay l)
+-37.7953844,145.2806435,highway,bus_stop,croydon station (bay m)
+-37.7960597,145.2798607,highway,bus_stop,croydon station (bay e)
+-37.7959088,145.2802207,highway,bus_stop,croydon station (bay g)
+-37.796032,145.2794159,highway,bus_stop,croydon station (bay d)
+-37.7959131,145.2796481,highway,bus_stop,croydon station (bay c)
+-37.7957886,145.2799758,highway,bus_stop,croydon station (bay b)
+-37.7956784,145.2801634,highway,bus_stop,croydon station (bay a)
+-33.8835628,151.1146764,highway,bus_stop,"croydon station, the strand"
+-33.8834725,151.114526,highway,bus_stop,the strand opp croydon station
+44.9275775,-63.5370658,amenity,restaurant,enfield big stop restaurant
+38.101158,-88.3386558,amenity,school,booth elementary school
+43.6059058,-72.0531412,amenity,school,east hill school
+43.5517394,-72.0823087,amenity,school,george hill school
+43.6228499,-72.1048091,amenity,school,jones hill school
+41.9792632,-72.5667545,amenity,school,mark twain school
+42.0234291,-72.5645322,amenity,school,saint martha school
+41.9917886,-72.5696564,amenity,restaurant,chinese buffet
+41.9973742,-72.5843656,amenity,restaurant,friendly's
+42.0100813,-72.5939871,amenity,restaurant,enfield pizza palace
+41.9877325,-72.5761474,amenity,restaurant,saki
+36.184935,-77.6761362,amenity,school,enfield middle school
+41.9976879,-72.5770293,amenity,restaurant,first wok
+41.9975538,-72.5769664,amenity,restaurant,oyama japanese cuisine
+41.9974602,-72.5769349,amenity,restaurant,jason's seafood restaurant & steakhouse
+41.9880443,-72.5792315,amenity,restaurant,cheng's garden
+43.6424131,-72.12031,amenity,restaurant,enfield house of pizza
+43.6430811,-72.1246223,amenity,restaurant,ziggy pizza
+36.1810118,-77.6624454,amenity,restaurant,marina's italian restaurant
+41.9891572,-72.5651118,amenity,restaurant,country diner
+44.9402707,-63.5349868,amenity,restaurant,soaring crane sushi
+41.9953088,-72.5807839,amenity,restaurant,kebab house/mozaic cafe
+44.9384638,-63.5348868,amenity,restaurant,shooters bar & grill
+41.99074,-72.5694901,shop,supermarket,big y
+41.9882699,-72.5744961,shop,supermarket,stop & shop
+41.9878746,-72.5782743,shop,supermarket,shoprite
+44.9521198,-63.5236247,shop,supermarket,avery's farm market
+41.9977409,-72.5770475,leisure,fitness_centre,my gym
+41.9914146,-72.5820567,shop,supermarket,aldi
+36.1718908,-77.6716211,shop,supermarket,justsave
+-34.873459,138.6022056,leisure,fitness_centre,plus fitness
+-33.8942612,151.1001808,highway,bus_stop,burwood rd at mitchell st
+42.018112,-72.584885,highway,bus_stop,mass mutual
+-37.7577189,143.7828371,highway,bus_stop,little hard hills hotel
+-34.87348,138.60359,highway,bus_stop,stop 17a regency road - north side
+-34.87336,138.60615,highway,bus_stop,stop 17b regency road - north side
+-34.8714345,138.6019221,highway,bus_stop,stop 18 main north road - east side
+-34.8731878,138.6093504,highway,bus_stop,stop 18 regency road - north side
+-34.8681839,138.6017168,highway,bus_stop,stop 19 main north road - east side
+-34.8656931,138.601544,highway,bus_stop,stop 20 main north road - east side
+-34.86159,138.60126,highway,bus_stop,stop 21 main north road - east side
+-34.8578331,138.6010109,highway,bus_stop,stop 22 main north road - east side
+-34.8531261,138.6006573,highway,bus_stop,stop 23 main north road - east side
+-34.8481785,138.6009271,highway,bus_stop,stop 25 grand junction road - south side
+-34.8494034,138.6003987,highway,bus_stop,stop 25 main north road - east side
+-34.8479588,138.6056799,highway,bus_stop,stop 26 grand junction road - south side
+-33.8895235,151.0913416,highway,bus_stop,coronation pde at mina rosa st
+-33.8912881,151.0910087,highway,bus_stop,"st thomas' anglican church, coronation pde"
+-33.8930076,151.0906828,highway,bus_stop,coronation pde at mitchell st
+-33.8929099,151.0905464,highway,bus_stop,coronation pde at hill st
+-33.889412,151.0912064,highway,bus_stop,coronation pde at plymouth st
+-33.8910909,151.0908962,highway,bus_stop,coronation pde opp st thomas' anglican church
+43.6447714,-72.1428749,highway,bus_stop,enfield northbound
+43.6445597,-72.1428587,highway,bus_stop,enfield southbound
+-33.8876266,151.1006648,highway,bus_stop,"st joseph's primary school, liverpool rd"
+-33.8869076,151.0975067,highway,bus_stop,liverpool rd at the parade
+-33.8857023,151.0946914,highway,bus_stop,liverpool rd at beaumaris st
+-33.8868347,151.0925945,highway,bus_stop,"the broadway, liverpool rd"
+41.0064012,-73.6540439,amenity,school,sacred heart school
+41.0576127,-73.5832201,amenity,school,bridges school
+41.0363874,-73.6044931,amenity,restaurant,cos cobber
+41.0413497,-73.5919071,amenity,restaurant,little pub greenwich
+41.0384931,-73.5982581,amenity,restaurant,chicken joe's
+41.0440467,-73.5909346,amenity,restaurant,cardillo's deli plus
+41.0432802,-73.5906155,amenity,restaurant,louie's
+41.0226309,-73.6245448,amenity,restaurant,abis
+41.0363481,-73.6059881,amenity,restaurant,pizza post
+41.0430122,-73.57562,amenity,restaurant,valbella ristorante
+41.0289393,-73.6271312,amenity,restaurant,kira sushi
+41.004078,-73.6582622,amenity,restaurant,byram sushi teriyaki
+41.0231351,-73.6252356,amenity,restaurant,unknown
+41.0228392,-73.6200088,amenity,restaurant,bruce park grille
+41.0408167,-73.5859523,amenity,restaurant,unknown
+41.033841,-73.568112,amenity,restaurant,social club
+41.0423824,-73.5781291,amenity,restaurant,mr. falafel
+41.0441644,-73.5737108,amenity,restaurant,sushi soba
+41.0276238,-73.63048,amenity,restaurant,cava
+41.0277454,-73.6306028,amenity,restaurant,planet pizza
+41.0185713,-73.6390901,amenity,restaurant,pasta bowls
+41.0178928,-73.6419861,amenity,restaurant,little thai kitchen
+41.0365887,-73.6661414,leisure,fitness_centre,kaia yoga
+41.0173314,-73.6470862,leisure,fitness_centre,greenwich crossfit
+-33.8313118,151.1863947,shop,supermarket,iga
+41.0331963,-73.6239365,shop,supermarket,whole foods market
+41.0415347,-73.5867522,shop,supermarket,balducci’s
+41.0425448,-73.5772701,shop,supermarket,acme
+41.0273526,-73.6312809,shop,supermarket,stop & shop
+41.0277982,-73.6306616,leisure,fitness_centre,forme barre fitness
+-33.8418002,151.1810431,highway,bus_stop,"greenwich point wharf, lower serpentine rd"
+41.0474689,-73.5685247,highway,bus_stop,unknown
+41.0474274,-73.5682471,highway,bus_stop,unknown
+-33.8234088,151.1871765,highway,bus_stop,pacific hwy at bellevue av
+-33.8248026,151.1905378,highway,bus_stop,pacific hwy opp gore hill oval
+-33.8213352,151.1856551,highway,bus_stop,pacific hwy opp tafe st leonards
+-33.8174054,151.1803796,highway,bus_stop,pacific hwy opp dickson av
+41.0317387,-73.5871893,railway,station,riverside
+41.0298618,-73.6001007,railway,station,cos cob
+41.021446,-73.625634,railway,station,greenwich
+41.0333768,-73.5678766,railway,station,old greenwich
+-33.8184039,151.1827026,highway,bus_stop,pacific hwy opp campbell st
+-33.8266953,151.1832529,highway,bus_stop,"greenwich public school, river rd"
+-33.8270263,151.1854752,highway,bus_stop,river rd at st vincents rd
+-33.827213,151.1893873,highway,bus_stop,river rd at portview rd
+-33.8278153,151.192176,highway,bus_stop,river rd before eastview st
+-33.8273731,151.1896583,highway,bus_stop,river rd opp portview rd
+-33.8271704,151.1876111,highway,bus_stop,river rd before stella vista pl
+-33.8271653,151.1857286,highway,bus_stop,river rd at st vincents rd
+-33.8267979,151.1832403,highway,bus_stop,"greenwich hospital, river rd"
+-33.8264558,151.185874,highway,bus_stop,kingslangley rd at st vincents rd
+-33.8252535,151.1879348,highway,bus_stop,greenwich rd at bellevue av
+-33.8188554,151.180124,highway,bus_stop,ronald av opp panorama rd
+-33.8197163,151.1822881,highway,bus_stop,35 ronald av
+-33.8217475,151.1827543,highway,bus_stop,ronald av before innes rd
+-33.8225369,151.182614,highway,bus_stop,innes rd opp crowther av
+-33.8232724,151.1824648,highway,bus_stop,balfour st after innes rd
+-33.8246307,151.1831705,highway,bus_stop,kingslangley rd at lansdowne st
+-33.8252217,151.1880641,highway,bus_stop,greenwich rd opp bellevue av
+-33.8263842,151.1882728,highway,bus_stop,greenwich rd at anglo rd
+-33.8267623,151.1858806,highway,bus_stop,st vincents rd at kingslangley rd
+-33.8247351,151.1831456,highway,bus_stop,kingslangley rd opp lansdowne st
+-33.8232606,151.1823776,highway,bus_stop,balfour st after omar st
+-33.8217796,151.1826637,highway,bus_stop,ronald av before crowther av
+-33.8194757,151.1818604,highway,bus_stop,46 ronald av
+-33.8253284,151.1841944,highway,bus_stop,kingslangley rd opp greenwich public school
+-33.8402814,151.1813264,highway,bus_stop,mitchell st at george st
+-33.8402611,151.1838422,highway,bus_stop,manns av after george st
+-33.8377689,151.1839854,highway,bus_stop,"shell park, greenwich rd"
+-33.8370395,151.1851338,highway,bus_stop,greenwich rd at landenburg pl
+-33.8350624,151.1849838,highway,bus_stop,greenwich rd at jago st
+-33.8333076,151.1853594,highway,bus_stop,greenwich rd at evelyn st
+-33.8319107,151.1860792,highway,bus_stop,greenwich rd opp greenwich public school
+-33.8301307,151.1872653,highway,bus_stop,greenwich rd before oscar st
+-33.8289228,151.1881366,highway,bus_stop,greenwich rd opp greenwich library
+-33.8274428,151.1884279,highway,bus_stop,greenwich rd at river rd
+-33.8291326,151.1881552,highway,bus_stop,"greenwich library, greenwich rd"
+-33.8299889,151.1875239,highway,bus_stop,greenwich rd opp oscar st
+-33.831787,151.1863255,highway,bus_stop,"greenwich public school, greenwich rd"
+-33.8334087,151.1854865,highway,bus_stop,greenwich rd opp evelyn st
+-33.8349768,151.1851092,highway,bus_stop,greenwich rd at chisholm st
+-33.8371368,151.1851652,highway,bus_stop,greenwich rd opp landenburg pl
+-33.8376028,151.1843332,highway,bus_stop,greenwich rd opp shell park
+-33.8403651,151.1839403,highway,bus_stop,manns av at george st
+-33.8404233,151.1828001,highway,bus_stop,george st at st lawrence st
+-33.840265,151.1815432,highway,bus_stop,george st at mitchell st
+-34.9185505,138.6166133,amenity,restaurant,moobar
+-34.91673,138.61458,highway,bus_stop,stop 2 hackney road - north east side
+-34.9186208,138.6167821,highway,bus_stop,stop 2 north terrace - north west side
+-34.91476,138.61415,highway,bus_stop,stop 2a hackney road - east side
+-34.91148,138.61333,highway,bus_stop,stop 3 hackney road - north east side
+-34.917139,138.619697,highway,bus_stop,stop 3 north terrace - north side
+43.6397386,-79.5375294,amenity,restaurant,pho house
+43.6359502,-79.5408282,amenity,restaurant,taste of thailand cuisine
+43.6378115,-79.5392092,amenity,restaurant,pita & hummus
+43.63776,-79.5392714,amenity,restaurant,sushi 2 go
+-32.9176833,151.749001,amenity,restaurant,hamilton chinese restaurant
+43.6489289,-79.5493301,amenity,restaurant,mcnies fish & chips
+43.6489223,-79.5493863,amenity,restaurant,curry & chutney
+43.649116,-79.5286603,amenity,restaurant,mai bistro
+43.6457887,-79.5601937,amenity,restaurant,state & main
+43.6446601,-79.532909,amenity,restaurant,thai room grand
+43.6412807,-79.5384715,amenity,restaurant,kanu bar & grill
+43.6412012,-79.5392344,amenity,restaurant,haroo korean restaurant
+43.6430653,-79.5343007,amenity,restaurant,cravin kitchen + lounge
+43.649175,-79.5286091,amenity,restaurant,sorsi e morsi trattoria
+43.6490522,-79.5287432,amenity,prep_school,mathnasium
+43.6451419,-79.5325264,amenity,restaurant,toji sushi
+43.6452317,-79.5324426,amenity,restaurant,ikkoi
+43.6489106,-79.5283355,amenity,restaurant,fire wing’s bar & grill
+43.6490416,-79.5282476,amenity,prep_school,oxford learning
+43.6328003,-79.5443646,amenity,restaurant,mekong river
+43.6416792,-79.5370513,amenity,music_school,toronto faculty of music
+-32.9176103,151.7486115,amenity,restaurant,downtown beirut
+43.6390566,-79.5489846,amenity,school,kingsley school
+43.6501143,-79.5446311,amenity,school,olivet school
+43.6494229,-79.5296017,amenity,school,filipok russian junior school
+43.648654,-79.5613061,amenity,school,burnhamthorpe adult learning centre
+43.6496191,-79.5299424,amenity,school,german international school toronto
+43.6487869,-79.5284428,amenity,restaurant,thai jalearn
+43.6449584,-79.5326599,amenity,restaurant,resurrection restaurant + bar
+43.6438081,-79.5337456,amenity,driving_school,driving 101 driving school
+43.6453458,-79.5227962,amenity,restaurant,freshii
+43.6377857,-79.5392413,amenity,restaurant,three kitchens
+43.6347965,-79.5420287,leisure,fitness_centre,maureen rae's yoga studio
+43.6442141,-79.5601049,leisure,fitness_centre,goodlife fitness
+43.645222,-79.5231736,shop,supermarket,sobeys urban fresh
+43.6452529,-79.5223664,leisure,fitness_centre,goodlife fitness
+43.6493176,-79.528495,shop,supermarket,apna food bazaar
+43.6447806,-79.5327896,leisure,fitness_centre,f45 training
+43.6540535,-79.5408012,highway,bus_stop,wingrove hill
+43.654739,-79.5639954,highway,bus_stop,rathburn road
+43.6460682,-79.5596865,highway,bus_stop,burnhamthorpe road
+43.6459314,-79.5600321,highway,bus_stop,burnhamthorpe road
+43.6525744,-79.5630533,highway,bus_stop,capri road
+43.6528587,-79.5634153,highway,bus_stop,capri road
+43.6367105,-79.55631,highway,bus_stop,bloor street west
+43.6341147,-79.5564107,highway,bus_stop,the east mall at gordon park dr
+43.6371899,-79.5570049,highway,bus_stop,bloor street west
+43.6307404,-79.5489948,highway,bus_stop,dundas street at billingham road
+43.6313426,-79.5466161,highway,bus_stop,dundas street at paulart drive
+43.6488472,-79.5603827,highway,bus_stop,keane avenue
+43.6491993,-79.5603049,highway,bus_stop,keane avenue
+43.6549539,-79.5637477,highway,bus_stop,rathburn rd at the east mall
+43.6464922,-79.5596351,highway,bus_stop,burnhamthorpe rd at the east mall
+43.6384609,-79.557327,highway,bus_stop,gibbs road
+43.6324323,-79.5444903,highway,bus_stop,dundas street at shaver avenue
+43.6487945,-79.5251082,highway,bus_stop,cordova avenue
+43.6500619,-79.5256691,highway,bus_stop,unknown
+43.6404355,-79.5421023,highway,bus_stop,bloor street at ashbourne drive
+43.6397855,-79.5449353,highway,bus_stop,bloor street at martin grove road
+43.6391988,-79.5475241,highway,bus_stop,bloor street at shaver avenue
+43.6383206,-79.5512878,highway,bus_stop,bloor street at laurel avenue
+43.6371593,-79.5564001,highway,bus_stop,bloor street at the east mall
+43.6462194,-79.5595826,highway,bus_stop,burnhamthorpe rd at the east mall
+43.6481509,-79.5514006,highway,bus_stop,shaver avenue north
+43.6486093,-79.5493932,highway,bus_stop,burnelm drive (martin grove road)
+43.6493205,-79.5463102,highway,bus_stop,ashbourne drive
+43.6503935,-79.5417819,highway,bus_stop,botfield avenue
+43.6508742,-79.5395748,highway,bus_stop,burnhamthorpe rd at kipling ave
+43.650388,-79.5344289,highway,bus_stop,burnhamthorpe road at holloway road
+43.6494583,-79.5315751,highway,bus_stop,burnhamthorpe road at burnhamthorpe crescent
+43.6506725,-79.5261981,highway,bus_stop,1300 islington avenue
+43.6388571,-79.5378917,highway,bus_stop,aukland road
+43.6477658,-79.5243497,highway,bus_stop,cordova avenue
+43.6419234,-79.5576818,highway,bus_stop,the east mall at valhalla inn rd
+43.6385395,-79.557028,highway,bus_stop,gibbs road
+43.6445634,-79.5587212,highway,bus_stop,the east mall at cantle path
+43.6449206,-79.5591971,highway,bus_stop,the east mall at cantle path
+43.6416034,-79.55788,highway,bus_stop,the east mall at valhalla inn rd
+43.6458274,-79.5188088,highway,bus_stop,unknown
+43.634972,-79.5413463,highway,bus_stop,dundas street at wilmar road
+43.6376688,-79.5389237,highway,bus_stop,dundas street at acorn avenue
+43.6401672,-79.5404976,highway,bus_stop,auckland road at bloor street
+43.645391,-79.5319322,highway,bus_stop,royalavon crescent
+43.6479872,-79.5250275,highway,bus_stop,central park roadway south side
+43.6379231,-79.5520877,highway,bus_stop,bloor street at tremont road
+43.6389867,-79.5474138,highway,bus_stop,bloor street at shaver avenue
+43.6511559,-79.5395813,highway,bus_stop,burnhamthorpe road
+43.6491912,-79.5387114,highway,bus_stop,goswell road
+43.6569099,-79.5553824,highway,bus_stop,rathburn rd at martin grove rd
+43.6448958,-79.523173,highway,bus_stop,islington avenue
+-32.913594,151.7472122,highway,bus_stop,maitland rd opp islington park
+-32.9113197,151.7459052,highway,bus_stop,maitland rd at hubbard st
+-32.915649,151.7515633,highway,bus_stop,norfolk ave after robert st
+-32.9176014,151.7507717,highway,bus_stop,sheddon st at power st
+-32.9155613,151.7517208,highway,bus_stop,norfolk ave before robert st
+-32.9142124,151.7518776,highway,bus_stop,norfolk ave at the avenue
+-32.9183993,151.7511218,highway,bus_stop,albert st opp hawkins oval
+-32.9173556,151.7509613,highway,bus_stop,sheddon st opp power st
+-32.9180893,151.7483819,highway,bus_stop,"hamilton station, beaumont st, stand a"
+-32.9190429,151.7510174,highway,bus_stop,"wickham park, maitland rd"
+-32.9153104,151.7485001,highway,bus_stop,maitland rd opp may st
+-32.9132027,151.7471601,highway,bus_stop,"islington park, maitland rd"
+-32.9114276,151.7461459,highway,bus_stop,maitland rd opp islington st
+-32.9176715,151.7497882,highway,bus_stop,maitland rd before beaumont st
+-32.9176635,151.7500305,highway,bus_stop,maitland rd opp beaumont st
+-32.9153803,151.7483223,highway,bus_stop,maitland rd at may st
+-32.9191931,151.7508893,highway,bus_stop,maitland rd opp wickham park
+-32.9181137,151.7527113,highway,bus_stop,"wickham park, albert st"
+43.6385619,-79.5382713,highway,bus_stop,auckland road at dundas street
+43.6469896,-79.5565402,highway,bus_stop,400 burnhamthorpe road
+43.6396362,-79.5446084,highway,bus_stop,bloor street at wilmar road
+43.6507656,-79.5390868,highway,bus_stop,burnhamthorpe road
+43.6490678,-79.5383412,highway,bus_stop,kipling ave at goswell rd
+43.6469137,-79.537407,highway,bus_stop,kipling ave at mattice rd
+43.6449742,-79.5365764,highway,bus_stop,kipling ave at tyre ave
+43.6422096,-79.5353333,highway,bus_stop,northbound on kipling ave at bloor st west north side
+43.6402661,-79.5419222,highway,bus_stop,bloor street at acorn drive
+43.6448639,-79.5231689,highway,bus_stop,unknown
+43.6472206,-79.556258,highway,bus_stop,400 burnhamthorpe road
+43.6482502,-79.5519007,highway,bus_stop,shaver avenue north
+43.6488028,-79.5495068,highway,bus_stop,martin grove road
+43.6493332,-79.5472263,highway,bus_stop,appleby road
+43.6503865,-79.5426742,highway,bus_stop,echo valley road
+43.6510663,-79.5397067,highway,bus_stop,burnhamthorpe rd at kipling ave
+43.6470942,-79.537806,highway,bus_stop,mattice avenue
+43.6451251,-79.536942,highway,bus_stop,kipling ave at tyre ave
+43.6364013,-79.5400621,highway,bus_stop,dundas street at poplar avenue
+43.6490488,-79.5291277,highway,bus_stop,burnhamthorpe rd at dundas st w
+43.648749,-79.5284253,highway,bus_stop,cordova ave at dundas st w
+43.6387341,-79.5380062,highway,bus_stop,unknown
+43.6561707,-79.5587363,highway,bus_stop,333 rathburn road - walkway to alanmeade crescent
+43.6597475,-79.5433404,highway,bus_stop,rathburn rd at kiping ave
+43.6590159,-79.5465054,highway,bus_stop,rathburn rd at haliburton ave
+43.6583877,-79.5492319,highway,bus_stop,edenwood drive
+43.6570694,-79.5421257,highway,bus_stop,bywood drive
+43.6504898,-79.5340673,highway,bus_stop,burnhamthorpe road at burnhamthorpe park boulevard
+43.6507082,-79.5361964,highway,bus_stop,burnhamthorpe road at royalavon crescent
+43.6494996,-79.5307387,highway,bus_stop,burnhamthorpe road at burnhamthorpe crescent
+43.6453652,-79.5235709,highway,bus_stop,unknown
+43.6505803,-79.5362851,highway,bus_stop,burnhamthorpe road at royalavon crescent
+43.6387749,-79.5384601,highway,bus_stop,aukland road north of dundas street
+43.6453451,-79.5235704,highway,bus_stop,unknown
+43.6476285,-79.5262114,highway,bus_stop,cordova ave at central park roadway
+43.6477725,-79.524368,highway,bus_stop,50 cordova avenue
+43.6380509,-79.5386097,highway,bus_stop,dundas street west of aukland road
+43.6389915,-79.5392614,highway,bus_stop,aukland road south of bloor street
+43.6419907,-79.5355962,highway,bus_stop,kipling ave at bloor st west
+43.6483016,-79.5252389,highway,bus_stop,central park roadway at islington ave
+43.6452941,-79.5235087,railway,subway_entrance,islington av - east
+43.6465012,-79.5595921,highway,bus_stop,burnhamthorpe rd at the east mall
+43.6462139,-79.5596297,highway,bus_stop,burnhamthorpe rd at the east mall
+43.6307538,-79.5489277,highway,bus_stop,dundas street at east mall crescent
+43.6505914,-79.5363059,highway,bus_stop,burnhamthorpe road at avonhurst road
+43.6350052,-79.5413134,highway,bus_stop,dundas street at wilmar road
+43.6324027,-79.5445665,highway,bus_stop,dundas street at shaver avenue
+43.6313739,-79.5465328,highway,bus_stop,dundas street at paulart drive
+43.6405451,-79.5414613,highway,bus_stop,unknown
+-33.8902855,151.1487246,amenity,restaurant,gourmet cake express
+-33.8927912,151.1486689,amenity,school,eileen o'connor catholic college
+-33.8967426,151.1494026,leisure,fitness_centre,unknown
+-33.8991189,151.1451597,highway,bus_stop,new canterbury rd at eltham st
+-33.893838,151.1434089,railway,station,lewisham west
+-33.8979039,151.1466239,highway,bus_stop,"lewisham public school, new canterbury rd"
+-33.8980814,151.1466444,highway,bus_stop,new canterbury rd opp lewisham public school
+-42.8332951,147.6100317,highway,bus_stop,lewisham
+-33.8933685,151.1476275,railway,station,lewisham
+-33.8937064,151.1483426,highway,bus_stop,"lewisham station, railway tce"
+-33.8938809,151.1486382,highway,bus_stop,railway tce opp lewisham station
+-33.8944492,151.1448016,highway,bus_stop,old canterbury rd at hudson st
+-33.8925443,151.1498818,highway,bus_stop,west st after brighton st
+-33.8909069,151.1489167,highway,bus_stop,west st at thomas st
+-33.8945392,151.1449094,highway,bus_stop,old canterbury rd before toothill st
+-33.8968911,151.1497887,highway,bus_stop,new canterbury rd opp wardell rd
+-33.8997899,151.1451021,highway,bus_stop,new canterbury rd at morton av
+-33.890112,151.146994,highway,bus_stop,"lewisham hotel, parramatta rd"
+43.1427778,-88.3080556,amenity,school,merton intermediate school
+51.8544409,-1.1650658,highway,bus_stop,the plough inn
+51.8545043,-1.1651372,highway,bus_stop,the plough inn
+52.5537043,0.8118721,highway,bus_stop,unknown
+-34.9152504,138.5773167,amenity,restaurant,vietnam village
+-34.9106639,138.5734894,leisure,fitness_centre,warehouse gym
+-34.916543,138.578161,highway,bus_stop,stop 2 port road - west side
+-34.914475,138.5777675,highway,bus_stop,stop 3 port road - west side
+-34.9135495,138.576174,highway,bus_stop,stop 4 phillips street - north side
+-34.9136549,138.5761487,highway,bus_stop,stop 4 phillips street - south side
+-34.9123311,138.5774044,highway,bus_stop,stop 4 port road - west side
+-34.9102523,138.5770527,highway,bus_stop,stop 5 port road - west side
+42.1422039,-71.7729516,amenity,school,sutton elementary school
+42.1434447,-71.7707272,amenity,school,sutton middle school
+40.6119546,-97.8503257,amenity,school,sutton christian school
+40.6175102,-97.8592147,amenity,school,sutton public schools
+42.1441079,-71.7705877,amenity,school,sutton high school
+-35.2041801,149.209091,amenity,restaurant,wintergarden restaurant
+45.1067775,-72.6156897,amenity,restaurant,california dreams
+45.1066596,-72.6156229,amenity,restaurant,eurasia
+42.1416756,-71.7735216,amenity,school,simonian center for early learning
+45.1000816,-72.5843849,amenity,restaurant,unknown
+42.1615746,-71.7396979,amenity,restaurant,tony's pizza restaurant sutton
+53.2370504,-2.1313913,shop,supermarket,the food warehouse
+45.1102268,-72.6157976,shop,supermarket,iga
+45.1073113,-72.6160412,shop,supermarket,la rumeur affamée
+52.0622141,1.3659093,highway,bus_stop,post office lane
+52.0617444,1.3659761,highway,bus_stop,post office lane
+52.0679723,1.3622484,highway,bus_stop,sutton hall farm
+52.0678364,1.3624211,highway,bus_stop,sutton hall farm
+52.0951413,1.3425029,highway,bus_stop,coach park
+52.0957002,1.3495344,highway,bus_stop,entrance
+52.0639758,1.3643782,highway,bus_stop,council houses
+52.0639017,1.3641391,highway,bus_stop,council houses
+52.0526149,1.3766546,highway,bus_stop,woodhall
+52.0525954,1.3763905,highway,bus_stop,woodhall
+53.2354843,-2.1270213,highway,bus_stop,"lyme green, london road / lindrum avenue"
+53.2343424,-2.1272876,highway,bus_stop,"lyme green, london road / lindrum avenue"
+53.235544,-2.126678,highway,bus_stop,"lyme green, lindrum avenue / london road"
+53.2354461,-2.1246838,highway,bus_stop,"lyme green, robin lane / lindrum avenue"
+53.2352938,-2.1200089,highway,bus_stop,"lyme green, robin lane / leek old road"
+53.2354084,-2.1200243,highway,bus_stop,"lyme green, robin lane / leek old road"
+53.2350943,-2.1125322,highway,bus_stop,"sutton lane ends, walker lane / post office"
+53.2349593,-2.1127266,highway,bus_stop,"sutton lane ends, walker lane / post office"
+53.2360054,-2.1100139,highway,bus_stop,"sutton lane ends, walker lane / hollin lane"
+53.2386892,-2.1034316,highway,bus_stop,"sutton lane ends, langley road / church house"
+53.2391781,-2.0992557,highway,bus_stop,"sutton lane ends, langley road / oaklea house"
+53.2391056,-2.0969146,highway,bus_stop,"sutton lane ends, langley road"
+53.2402049,-2.0949884,highway,bus_stop,"langley, langley road / brighton crescent"
+53.2405483,-2.0902012,highway,bus_stop,"langley, cock hall lane / methodist church"
+53.2221519,-2.125738,highway,bus_stop,"oakgrove, london road / fools nook inn"
+53.2332367,-2.1272843,highway,bus_stop,"lyme green, london road / gawend lane"
+53.2332275,-2.1275389,highway,bus_stop,"lyme green, london road / gawend lane"
+53.2221636,-2.1255897,highway,bus_stop,"oakgrove, london road / fools nook inn"
+53.2385635,-2.1033264,highway,bus_stop,"sutton lane ends, langley road / church house"
+53.2400746,-2.0949451,highway,bus_stop,"langley, langley road / brighton crescent"
+53.240645,-2.090222,highway,bus_stop,"langley, cock hall lane / methodist church"
+53.2393758,-2.1097115,highway,bus_stop,"sutton lane ends, gonville avenue / selwyn drive"
+53.2391233,-2.1105649,highway,bus_stop,"sutton lane ends, selwyn drive / hall lane"
+53.238866,-2.1068034,highway,bus_stop,"sutton lane ends, fitzwilliam avenue / balliol close"
+53.2387232,-2.1057242,highway,bus_stop,"sutton lane ends, trinity lane / fitzwilliam avenue"
+53.235676,-2.126616,highway,bus_stop,"lyme green, lindrum avenue / london road"
+53.3504921,-0.9817729,highway,bus_stop,sutton lane
+53.3537345,-0.982507,highway,bus_stop,station road
+53.3398062,-0.9726102,highway,bus_stop,sandiforths
+53.3533492,-0.9826514,highway,bus_stop,station road
+53.3557938,-0.9783861,highway,bus_stop,town street
+53.355858,-0.9785348,highway,bus_stop,town street
+53.3402677,-0.974011,highway,bus_stop,sandiforths
+53.3504185,-0.9815794,highway,bus_stop,sutton lane
+51.1948657,1.3410682,highway,bus_stop,church
+51.1862459,1.2871551,highway,bus_stop,waldershare park gates
+51.2122254,1.34741,highway,bus_stop,chalk pits
+51.2120769,1.3478861,highway,bus_stop,chalk pits
+51.1900338,1.2883982,highway,bus_stop,the cider works
+51.192176,1.3055714,highway,bus_stop,chapel lane
+51.1986033,1.315567,highway,bus_stop,m stores
+52.3916801,0.128627,highway,bus_stop,park road
+52.3889519,0.124332,highway,bus_stop,windmill lane
+52.391806,0.1286286,highway,bus_stop,park road
+52.3876102,0.110894,highway,bus_stop,york road
+52.3881215,0.1190014,highway,bus_stop,the brook
+52.3905737,0.1206474,highway,bus_stop,brookside
+52.3910019,0.1233429,highway,bus_stop,vermuyden gardens
+52.1085757,-2.6906575,highway,bus_stop,sutton st. michael
+52.1060519,-2.6840333,highway,bus_stop,golden cross inn
+52.1061588,-2.6841956,highway,bus_stop,golden cross inn
+52.0986344,-2.6886645,highway,bus_stop,wergins bridge
+52.0987173,-2.6884021,highway,bus_stop,wergins bridge
+52.1087828,-2.6906023,highway,bus_stop,sutton st. michael
+52.7472647,1.5366445,highway,bus_stop,"turn, opp"
+52.747265,1.5363332,highway,bus_stop,"turn, adj"
+52.7586707,1.5338926,highway,bus_stop,"elmhurst avenue, opp"
+50.9277459,-0.6080835,highway,bus_stop,white horse
+50.9505818,-0.6022619,highway,bus_stop,cross roads
+52.5789055,-0.3749572,highway,bus_stop,old peterborough road
+52.5790391,-0.3749411,highway,bus_stop,old peterborough road
+53.8933497,-1.9916718,highway,bus_stop,primary sch
+53.893119,-1.9959238,highway,bus_stop,unknown
+51.5693654,0.7243279,railway,station,sutton hall railway station
+51.5630617,0.7192621,highway,bus_stop,temple gate cottages
+51.5631173,0.7191932,highway,bus_stop,temple gate cottages
+51.1908694,1.2999237,highway,bus_stop,waldershare road
+51.1909212,1.2996841,highway,bus_stop,waldershare road
+51.1920729,1.3057215,highway,bus_stop,chapel lane
+51.1984834,1.3156729,highway,bus_stop,m stores
+52.113782,-0.2279472,highway,bus_stop,unknown
+52.1138211,-0.22804,highway,bus_stop,unknown
+52.104663,-0.235245,highway,bus_stop,oak tree farm
+52.1047474,-0.2353037,highway,bus_stop,oak tree farm
+53.2360988,-2.1101217,highway,bus_stop,"sutton lane ends, walker lane / hollin lane"
+-31.8733872,115.8328271,amenity,restaurant,3 elements
+43.1218895,-72.4362267,amenity,school,unknown
+43.0693247,-72.5406624,amenity,school,westminster west school
+39.5761954,-76.9802627,amenity,school,faith christian school
+39.561988,-76.9876217,amenity,school,christian preschool and kindergarten program
+39.60419,-77.00022,amenity,school,carroll adult learning community center
+33.7564052,-117.9997823,amenity,school,blessed sacrament school
+33.7594606,-117.9972823,amenity,school,seventeenth street school
+39.8302167,-105.0159711,amenity,school,skyline vista elementary school
+39.8422082,-105.0291488,amenity,school,gregory hill school
+39.8752778,-105.0313889,amenity,school,rocky mountain elementary school
+39.8731625,-105.10226,amenity,school,lukas elementary school
+39.8569064,-105.0892226,amenity,school,moore middle school
+39.8618456,-105.0973466,amenity,school,zerger elementary school
+39.83,-105.0338889,amenity,school,hidden lake high school
+39.8288889,-105.03,amenity,school,crown pointe academy
+39.8673813,-105.0922634,amenity,school,woodrow wilson charter academy
+39.9158223,-104.998598,amenity,restaurant,delectible egg
+39.915415,-104.9987968,amenity,restaurant,tokyo joe's
+39.8859674,-105.026941,amenity,restaurant,lodo's bar and grill
+39.586132,-76.9880079,amenity,restaurant,buffalo wild wings
+39.8568398,-105.080159,amenity,restaurant,chili's
+39.5749885,-76.9955785,amenity,restaurant,giulianova
+39.57478,-76.9953588,amenity,restaurant,thai classic iii westminster
+39.5753896,-76.9959315,amenity,restaurant,johansson's dining house
+39.5760132,-76.9965814,amenity,restaurant,rafael's restaurant
+39.574849,-76.9968993,amenity,restaurant,o'lordans irish pub & restaurant
+39.8538623,-105.0823639,amenity,restaurant,old chicago
+39.8643871,-105.0833319,amenity,restaurant,the garlic knot
+39.8628958,-105.0827255,amenity,restaurant,margarita's
+39.8605797,-105.0526214,amenity,restaurant,joe's crab shack
+39.8907232,-105.072882,amenity,restaurant,fat cats
+39.8297359,-105.024565,amenity,restaurant,jackie chan chinese kitchen
+39.9149146,-104.994283,amenity,restaurant,sushi north japanese restaurant
+39.8868886,-105.074715,amenity,restaurant,buffalo wild wings
+39.8866063,-105.0751482,amenity,restaurant,east moon asian bistro & sushi
+39.9455914,-104.992003,amenity,restaurant,renegade burrito
+39.8824423,-105.027376,amenity,restaurant,jewel of india
+39.8997898,-105.1162907,amenity,restaurant,heritage grill
+39.9630044,-104.9928739,amenity,restaurant,cheeky monk belgian beer cafe
+39.9619375,-104.991221,amenity,restaurant,asti d'italia
+39.9625255,-104.9923954,amenity,restaurant,3 margaritas
+33.74236,-117.9742555,amenity,restaurant,grand garden restaurant
+39.898999,-105.054009,amenity,restaurant,li's chinese
+33.7417911,-118.0061707,amenity,restaurant,sports pub & grill
+33.7412156,-118.0061546,amenity,restaurant,unknown
+33.7393644,-118.0060849,amenity,restaurant,unknown
+33.7597876,-118.0076205,amenity,restaurant,flame broiler
+39.8629894,-105.0508271,amenity,restaurant,thai curry
+39.8776406,-105.099044,amenity,restaurant,g's tacos
+39.9118577,-105.0514195,amenity,restaurant,gque championship barbeque
+33.7445827,-117.9629039,amenity,restaurant,phở gà yummy
+39.8901829,-105.0663055,amenity,restaurant,kachina southwestern grill
+39.5745349,-76.9946499,amenity,restaurant,kountry kafe
+39.574659,-76.9944434,amenity,restaurant,paradiso pizzeria
+33.7441376,-117.9577832,amenity,restaurant,bánh cuốn tây hồ #4
+33.7443556,-117.9679675,amenity,restaurant,bánh cuốn tây hồ #2
+33.7452946,-117.968001,amenity,restaurant,seafood cove #2
+33.7446478,-117.957995,amenity,restaurant,lục đỉnh ký #1
+33.7441543,-117.9572011,amenity,restaurant,kobe bistro
+33.7444315,-117.957105,amenity,prep_school,stars view learning center
+33.7442037,-117.9568739,amenity,restaurant,đệ nhất cơm tấm thành
+33.744169,-117.9559293,amenity,restaurant,tân hồng mai
+33.7452136,-117.9597385,amenity,restaurant,z cafe
+33.7459541,-117.9598216,amenity,restaurant,hồng mai
+33.7439834,-117.9687159,amenity,restaurant,hiền vương đa kao
+33.7451442,-117.9680586,amenity,restaurant,phở quang trung #2
+39.9147939,-105.0214214,amenity,restaurant,ana's mexican grill
+39.9148754,-105.0223273,amenity,restaurant,the lazy dog sports bar & grill
+39.8886784,-105.0689689,amenity,restaurant,dave's hot chicken
+39.8905996,-105.0661812,amenity,restaurant,kachina southwestern grill
+39.913061,-105.043019,amenity,restaurant,5280 burger bar
+39.913065,-105.042603,amenity,restaurant,fuzzy's taco shop
+39.9154139,-104.998693,amenity,restaurant,babajoon’s kabobs & more
+39.8283741,-105.0266855,amenity,restaurant,saigon pho grill
+33.7441311,-117.9551969,amenity,restaurant,quán vỹ dạ
+33.7668181,-118.0068339,amenity,restaurant,big rob's pizzeria
+39.5815771,-76.989107,amenity,restaurant,sakura
+39.5815136,-76.9891962,amenity,restaurant,sakura
+39.879457,-105.096818,amenity,restaurant,the brunch house
+39.9570193,-104.9945103,amenity,restaurant,sugarfire smoke house
+39.9570183,-104.995032,amenity,restaurant,noodles & company
+39.8865119,-105.025675,amenity,restaurant,the original chubby's mexican food
+39.5865648,-76.9885703,amenity,restaurant,cinco de mayo
+39.9453448,-104.992406,amenity,prep_school,mathnasium
+39.9567906,-104.994312,amenity,restaurant,snooze an am eatery
+39.9566738,-104.994306,amenity,restaurant,next door
+39.9614024,-104.991801,amenity,restaurant,happy sumo
+-31.861586,115.8282023,amenity,restaurant,chili master
+33.7665458,-118.0169286,amenity,school,bethany christian academy
+33.745647,-117.9469114,amenity,restaurant,phở nguyễn huệ
+33.7452881,-117.9476772,amenity,restaurant,đồng khánh
+39.8823366,-105.026486,amenity,restaurant,pizza hut
+39.8598456,-105.082475,amenity,restaurant,yak & yeti westminster restaurant
+39.8204506,-105.0350468,amenity,restaurant,massino's pizzeria
+33.7451288,-117.9652113,amenity,restaurant,saigon capital restaurant
+33.744098,-117.9681212,amenity,restaurant,kim ky noodle house
+39.8329957,-105.052825,amenity,restaurant,sakana
+39.5650185,-76.9791479,amenity,restaurant,liberatore's ristorante
+39.5645127,-76.9756384,amenity,restaurant,genova's to go
+39.5644195,-76.9756192,amenity,restaurant,blue point crab house
+39.9124151,-105.0460465,amenity,restaurant,cava
+39.9154595,-105.0104245,amenity,restaurant,matsumotto sushi & grill
+39.8776115,-105.0939607,amenity,restaurant,tlaquesalsa
+39.91537,-104.999707,amenity,restaurant,mad greens
+39.5757815,-76.9860462,amenity,restaurant,taco loco
+39.8593676,-105.0642221,amenity,restaurant,luceros tavern
+39.9153682,-104.999606,amenity,restaurant,uncle henry asian food express
+39.9153636,-104.9994996,amenity,restaurant,mugi ramen & poke
+39.826535,-105.025447,amenity,restaurant,taco river
+33.7635332,-117.995256,amenity,hospital,kindred hospital westminster
+39.8874695,-105.0683388,amenity,hospital,pam health rehabilitation hospital of westminster
+39.9149029,-105.0077176,amenity,restaurant,pho saigon
+39.9149145,-105.0081717,amenity,restaurant,spice of india
+39.8569622,-105.058496,amenity,restaurant,bonchon
+39.85699,-105.06053,amenity,restaurant,tap and burger
+39.8590484,-105.06156,amenity,restaurant,superfruit republic
+39.9305474,-105.0146217,amenity,prep_school,kumon
+42.5414072,-71.897182,amenity,school,caps collaborative gateway school
+39.5742631,-76.9814076,amenity,restaurant,ledo pizza
+39.5741824,-76.9814291,amenity,restaurant,asian sakae
+34.6770808,-83.0911722,amenity,school,west-oak middle school
+33.7453438,-117.9643899,amenity,restaurant,trái cây góc phố
+33.745353,-117.9602607,amenity,restaurant,quan hy
+33.7455006,-117.9608875,amenity,restaurant,thạch chè hiến khánh
+39.9609942,-104.9892036,amenity,restaurant,postino westminster
+39.5762685,-76.9862514,amenity,restaurant,blaze pizza
+39.8626937,-105.0511896,amenity,restaurant,mandoo shabu
+39.9614126,-104.9892387,amenity,restaurant,lazy dog
+39.577845,-76.9869709,amenity,restaurant,outback steakhouse
+39.5766022,-76.9863598,amenity,restaurant,first watch
+39.5775064,-76.9867697,amenity,restaurant,honeygrow
+39.8551363,-105.055282,amenity,restaurant,one vietnamese restaurant
+39.8420496,-105.049668,amenity,restaurant,adelitas kitchen
+39.8626019,-105.0640916,amenity,restaurant,hot pho
+39.8643832,-105.0835337,amenity,restaurant,momo house
+39.9149285,-105.0007699,amenity,restaurant,homegrown tap & dough
+39.9156617,-105.0035775,amenity,restaurant,perdida mexican kitchen
+39.8794483,-105.0971054,amenity,restaurant,rocky fin poké
+33.7453425,-117.9644534,amenity,restaurant,ghiền bún bò
+33.7437661,-117.9607277,amenity,restaurant,thh sandwiches
+42.5459778,-71.913788,amenity,restaurant,stefano's house of pizza
+42.5457876,-71.9148997,amenity,restaurant,blueprint
+42.5457396,-71.9148281,amenity,restaurant,green tea
+42.5454977,-71.9144458,amenity,restaurant,angler
+42.5476738,-71.9159861,amenity,restaurant,town house of pizza
+39.8278168,-105.0544614,amenity,restaurant,denny's
+42.5596835,-71.8641092,amenity,dancing_school,freeform dance academy
+39.8558714,-105.0983572,amenity,restaurant,i love sushi & poke
+39.8204743,-105.0350439,amenity,restaurant,woody's wings & things
+33.7599639,-118.0173281,amenity,prep_school,kumon
+33.7599505,-118.0181167,amenity,restaurant,dino's
+33.7589675,-117.98939,amenity,restaurant,poke haus
+33.7227684,-117.9723426,amenity,restaurant,calisto's pizza
+33.7442967,-117.97175,amenity,restaurant,unknown
+33.7382341,-117.9561985,shop,supermarket,saigon city marketplace
+39.8767324,-105.0983229,shop,supermarket,king soopers
+39.91243,-105.04645,leisure,fitness_centre,planet fitness
+39.9124305,-105.0507693,shop,supermarket,sprouts farmers market
+39.8624579,-105.051507,shop,supermarket,h mart
+39.9001473,-105.02404,leisure,fitness_centre,fitness 19
+39.8616506,-105.0801314,leisure,fitness_centre,planet fitness
+39.826783,-105.02339,shop,supermarket,walmart neighborhood market
+33.7464425,-117.960637,shop,supermarket,t&k food
+39.8763131,-105.093623,leisure,fitness_centre,anytime fitness
+33.758843,-117.9741539,shop,supermarket,mỹ thuận market
+39.584959,-76.9866217,shop,supermarket,grocery outlet
+39.8277513,-105.0353585,shop,supermarket,"valente’s deli, bakery italian market"
+39.5813585,-76.9900083,leisure,fitness_centre,planet fitness
+39.585286,-76.9899617,shop,supermarket,aldi
+39.5734572,-76.982423,shop,supermarket,giant
+33.7455914,-117.9474572,shop,supermarket,anh minh
+39.8805629,-105.093222,leisure,fitness_centre,vasa fitness
+39.866635,-105.0511327,shop,supermarket,trader joe's
+33.7580704,-117.9803601,shop,supermarket,stater bros.
+33.7439604,-117.969206,shop,supermarket,john's produce
+33.7377606,-117.9888866,shop,supermarket,thuan phat
+39.9144615,-105.0081652,leisure,fitness_centre,nutri–fit by natalie
+39.831403,-105.0270465,shop,supermarket,save-a-lot
+39.9302543,-105.0134272,leisure,fitness_centre,vasa fitness
+39.9304643,-105.0140456,leisure,fitness_centre,curves
+-31.8623097,115.8295369,shop,supermarket,woolworths
+-31.8630324,115.8292451,shop,supermarket,spudshed
+39.5770788,-76.9865686,shop,supermarket,sprouts farmers market
+33.746376,-117.96828,shop,supermarket,a dong supermarket
+33.7435282,-117.972974,shop,supermarket,abc supermarket
+39.8499958,-105.0233689,shop,supermarket,apna bazar
+42.5455487,-71.9145213,leisure,fitness_centre,spinfit kickbox fitness
+30.4116587,-91.0969758,shop,supermarket,barkemeyer law firm - dwi lawyers
+39.88042,-105.047229,highway,bus_stop,unknown
+39.8996841,-105.0549188,highway,bus_stop,112th and sheridan
+39.8998553,-105.0552364,highway,bus_stop,112th and sheridan (west bound)
+39.8880398,-105.0732018,highway,bus_stop,us 36 & church ranch station gate a
+39.8573072,-105.0540327,highway,bus_stop,us 36 & sheridan station gate c
+39.8578475,-105.0532995,highway,bus_stop,us 36 & sheridan station gate d
+39.8883903,-105.0717326,highway,bus_stop,us 36 & church ranch station gate b
+39.873797,-105.093016,highway,bus_stop,wadsworth pkwy & independence st
+39.8745166,-105.093062,highway,bus_stop,wadsworth pkwy & independence dr
+39.8572681,-105.081407,highway,bus_stop,wadsworth blvd & w 88th ave
+39.8604387,-105.081661,highway,bus_stop,unknown
+39.8636193,-105.083885,highway,bus_stop,unknown
+39.8680592,-105.087625,highway,bus_stop,wadsworth pkwy & w 94th ave
+39.8790253,-105.0957769,highway,bus_stop,unknown
+39.8821483,-105.096032,highway,bus_stop,wadsworth pkwy & w 102nd ave
+39.885744,-105.095965,highway,bus_stop,unknown
+39.8930952,-105.095707,highway,bus_stop,wadsworth pkwy & w 108th ave
+39.855783,-105.0819964,highway,bus_stop,wadsworth blvd & w 88th ave
+39.8591913,-105.08195,highway,bus_stop,unknown
+39.863671,-105.084486,highway,bus_stop,wadsworth pkwy & w 92nd ave
+39.8674615,-105.087641,highway,bus_stop,wadsworth pkwy & w 94th ave
+39.8777367,-105.0959034,highway,bus_stop,unknown
+39.8820873,-105.096468,highway,bus_stop,wadsworth pkwy & w 102nd ave
+39.884872,-105.096447,highway,bus_stop,wadsworth pkwy & w 104th ave
+39.8923823,-105.096162,highway,bus_stop,wadsworth pkwy & w 108th ave
+39.856186,-105.09312,highway,bus_stop,w 88th ave & dover st
+39.8562193,-105.08836,highway,bus_stop,w 88th ave & w 87th dr
+39.8562444,-105.097908,highway,bus_stop,w 88th ave & field st
+39.8562463,-105.05649,highway,bus_stop,w 88th ave & benton st
+39.8562651,-105.082979,highway,bus_stop,w 88th ave & yukon st
+39.8563593,-105.062679,highway,bus_stop,w 88th ave & harlan st
+39.8227613,-105.0292027,railway,station,westminster
+39.9139661,-105.051953,highway,bus_stop,120th ave / sheridan blvd (eb)
+39.9139501,-105.045776,highway,bus_stop,120th ave / vrain st (e)
+39.9139211,-105.033362,highway,bus_stop,120th ave / lowell blvd (e)
+39.9139331,-105.041216,highway,bus_stop,120th ave / bradburn blvd (e)
+39.8878806,-105.0667701,highway,bus_stop,unknown
+39.8883803,-105.0683808,highway,bus_stop,unknown
+39.876253,-105.073856,highway,bus_stop,104
+39.8864187,-105.0735927,highway,bus_stop,104
+39.885999,-105.0736577,highway,bus_stop,104
+39.8848801,-105.0755509,highway,bus_stop,104
+39.8830583,-105.0763637,highway,bus_stop,104
+39.8827861,-105.07605,highway,bus_stop,104
+39.8807698,-105.0768398,highway,bus_stop,104
+39.8800962,-105.0772127,highway,bus_stop,104
+39.8777959,-105.0758951,highway,bus_stop,104
+39.8773659,-105.0757202,highway,bus_stop,104
+39.8769675,-105.0740507,highway,bus_stop,104
+39.8735744,-105.073949,highway,bus_stop,104
+39.8718014,-105.072124,highway,bus_stop,104
+39.864459,-105.070408,highway,bus_stop,104
+39.8633133,-105.070608,highway,bus_stop,104
+39.8617442,-105.070461,highway,bus_stop,104
+33.7514277,-117.955081,highway,bus_stop,brookhurst-hazard
+33.7484459,-117.95507,highway,bus_stop,brookhurst-newcastle
+33.7492845,-117.954697,highway,bus_stop,brookhurst-newcastle
+33.7450927,-117.955546,highway,bus_stop,bolsa-brookhurst
+33.7447916,-117.953923,highway,bus_stop,bolsa-brookhurst
+33.7451172,-117.9508993,highway,bus_stop,bolsa-hope
+33.7448072,-117.951469,highway,bus_stop,bolsa-warne
+33.7587256,-117.9725631,highway,bus_stop,magnolia-westminster
+33.7589526,-117.9898698,highway,bus_stop,beach-westminster
+33.7599227,-117.9894412,highway,bus_stop,beach-westminster
+33.7593968,-117.9901987,highway,bus_stop,westminster-beach
+33.7591535,-117.9888012,highway,bus_stop,westminster-beach
+33.759437,-117.9857953,highway,bus_stop,westminster-monroe
+33.7591797,-117.9857421,highway,bus_stop,westminster-all american
+33.759474,-117.981462,highway,bus_stop,westminster-newland
+33.7592173,-117.9807466,highway,bus_stop,westminster-newland
+33.7592625,-117.9757686,highway,bus_stop,westminster-shirley
+33.7446826,-117.971483,highway,bus_stop,bolsa-magnolia
+33.7449881,-117.972703,highway,bus_stop,bolsa-magnolia
+33.7456394,-117.972108,highway,bus_stop,magnolia-bolsa
+33.7471168,-117.9724345,highway,bus_stop,magnolia-channing
+33.7483517,-117.9721424,highway,bus_stop,magnolia-madison
+33.7517484,-117.9724889,highway,bus_stop,magnolia-hazard
+33.7526028,-117.9721886,highway,bus_stop,magnolia-hazard
+33.755783,-117.9722219,highway,bus_stop,magnolia-jennrich
+33.7450104,-117.969412,highway,bus_stop,bolsa-cultural court
+33.7447071,-117.966985,highway,bus_stop,bolsa-moran
+33.7450439,-117.963972,highway,bus_stop,bolsa-bushard
+33.7447339,-117.963173,highway,bus_stop,bolsa-bushard
+33.7447651,-117.958691,highway,bus_stop,bolsa-ent 9800 kensington
+33.7448565,-117.945559,highway,bus_stop,bolsa-ward
+33.7451465,-117.947187,highway,bus_stop,bolsa-ward
+33.7454743,-117.954687,highway,bus_stop,brookhurst-bolsa
+33.7441161,-117.955041,highway,bus_stop,brookhurst-bolsa
+33.7415712,-117.955008,highway,bus_stop,brookhurst-bishop
+33.7411207,-117.954622,highway,bus_stop,brookhurst-bishop
+33.7381153,-117.954603,highway,bus_stop,brookhurst-mcfadden
+33.7375847,-117.955481,highway,bus_stop,mcfadden-brookhurst
+33.737781,-117.955322,highway,bus_stop,mcfadden-brookhurst
+33.7379907,-117.95495,highway,bus_stop,brookhurst-mcfadden
+33.7341513,-117.9548981,highway,bus_stop,brookhurst-margo
+33.7450789,-117.957873,highway,bus_stop,bolsa-brandon
+33.7445949,-117.980541,highway,bus_stop,bolsa-newland
+33.7442737,-117.989708,highway,bus_stop,beach-bolsa
+33.7452305,-117.989293,highway,bus_stop,beach-bolsa
+33.7445235,-117.990148,highway,bus_stop,bolsa-beach
+33.7446707,-117.977789,highway,bus_stop,bolsa-purdy
+33.7409505,-117.972363,highway,bus_stop,magnolia-natoma
+33.737926,-117.972006,highway,bus_stop,magnolia-mcfadden
+33.7376784,-117.971735,highway,bus_stop,mcfadden-magnolia
+33.7304379,-117.972532,highway,bus_stop,edinger-magnolia
+33.729994,-117.972223,highway,bus_stop,magnolia-edinger
+33.7307234,-117.971912,highway,bus_stop,magnolia-edinger
+33.7304959,-117.964083,highway,bus_stop,edinger-bushard
+39.8634017,-105.0615542,highway,bus_stop,unknown
+39.9137373,-105.005366,highway,bus_stop,w 120th ave & pecos st
+39.8995153,-105.0224331,highway,bus_stop,unknown
+39.9117459,-104.996888,highway,bus_stop,huron street & west 119th avenue
+33.7589765,-118.0100889,highway,bus_stop,westminster-sunset
+-31.8619802,115.8274257,highway,bus_stop,wanneroo rd - stirling central shopping ctr
+-31.8694314,115.8490809,highway,bus_stop,majella road after ravenswood drive
+-31.8659455,115.8491139,highway,bus_stop,majella road after edale way
+-31.8654912,115.8460065,highway,bus_stop,arkana road before stroughton road
+-31.8660913,115.8416047,highway,bus_stop,arkana road after stroughton road
+-31.8653566,115.843411,highway,bus_stop,arkana road before stroughton road
+-31.8653902,115.8462113,highway,bus_stop,arkana road after stroughton road
+-31.8663998,115.8491899,highway,bus_stop,majella road after arkana road
+-31.868806,115.8491899,highway,bus_stop,majella road before ravenswood drive
+-31.8706149,115.849847,highway,bus_stop,ravenswood drive after majella road
+-31.8706261,115.8527034,highway,bus_stop,ravenswood drive before mirrabooka avenue
+-31.8697652,115.844656,highway,bus_stop,stroughton road before medbury road
+-31.8665884,115.8446685,highway,bus_stop,stroughton road after worthing street
+-31.8660402,115.8448377,highway,bus_stop,stroughton road after arkana road
+-31.8683437,115.8447893,highway,bus_stop,stroughton road after salmar way
+-31.870294,115.8449295,highway,bus_stop,stroughton road before ravenswood drive
+-31.8668896,115.8549434,highway,bus_stop,mirrabooka avenue after milldale way
+39.8230865,-105.027289,highway,bus_stop,westminster gate c
+39.8232369,-105.027158,highway,bus_stop,westminster gate b
+39.8234579,-105.026989,highway,bus_stop,westminster gate a
+39.8236268,-105.026924,highway,bus_stop,unknown
+39.823447,-105.027079,highway,bus_stop,unknown
+39.82324,-105.02725,highway,bus_stop,westminster gate d
+39.9124892,-104.993953,highway,bus_stop,wagon road pnr gate f
+39.9124979,-104.993729,highway,bus_stop,wagon road pnr gate g
+39.9124953,-104.994251,highway,bus_stop,wagon road pnr gate e
+39.9124552,-104.99458,highway,bus_stop,wagon road pnr gate d
+39.9122994,-104.994529,highway,bus_stop,wagon road pnr gate c
+39.9122901,-104.994171,highway,bus_stop,wagon road pnr gate b
+39.9123097,-104.993574,highway,bus_stop,wagon road pnr gate h
+39.9001958,-104.996571,highway,bus_stop,huron street & community center drive
+39.906518,-104.996877,highway,bus_stop,huron street & west 116th avenue
+39.9034416,-104.996819,highway,bus_stop,huron street & west 114th avenue
+39.9010181,-104.996868,highway,bus_stop,huron street & west 114th avenue
+-31.8736072,115.8327606,highway,bus_stop,amelia st before vincent av
+-31.8736445,115.835359,highway,bus_stop,amelia st before kimbara st
+-31.8730724,115.8374613,highway,bus_stop,marloo rd after amelia st
+-31.8704397,115.8374607,highway,bus_stop,marloo rd before canara rd
+-31.8671951,115.8374784,highway,bus_stop,marloo rd before arkana rd
+-31.8650365,115.835386,highway,bus_stop,princess rd after arkana rd
+-31.863236,115.8353699,highway,bus_stop,princess rd after gretham rd
+-31.8635238,115.8355462,highway,bus_stop,princess road after storrington crescent
+-31.8661106,115.8355492,highway,bus_stop,princess road after steyning way
+-31.8672647,115.8375817,highway,bus_stop,marloo road before bilinga road
+-31.8703348,115.8376264,highway,bus_stop,marloo road after canara road
+-31.8733466,115.8375519,highway,bus_stop,marloo road before amelia street
+-31.873258,115.8397543,highway,bus_stop,ravenswood drive before wardong road
+-31.8710724,115.8432511,highway,bus_stop,ravenswood drive after mayfield street
+-31.8705977,115.8474016,highway,bus_stop,ravenswood drive before changton way
+39.871161,-105.0731701,highway,bus_stop,unknown
+-31.8729493,115.8316436,highway,bus_stop,wanneroo rd before amelia st
+33.7624076,-118.007056,highway,bus_stop,golden west-21st
+33.758845,-118.0296064,highway,bus_stop,westminster-rancho
+33.7630973,-118.0424409,highway,bus_stop,bolsa chica-loyola
+33.7738332,-118.0263485,highway,bus_stop,garden grove-melanie
+33.7740081,-118.0266121,highway,bus_stop,garden grove-melanie
+33.7590106,-118.0039233,highway,bus_stop,westminster-cedar
+33.763244,-117.9894842,highway,bus_stop,beach-21st
+33.7737634,-118.0154563,highway,bus_stop,garden grove-edwards
+33.7593067,-118.0357692,highway,bus_stop,westminster-university
+33.7735793,-118.032547,highway,bus_stop,garden grove-ent 5772 los alisos
+33.7739577,-118.0158821,highway,bus_stop,garden grove-edwards
+33.7592029,-118.0132489,highway,bus_stop,westminster-westmart
+33.7737676,-118.0228455,highway,bus_stop,garden grove-ent 6152 ice palace
+33.7730606,-118.0075326,highway,bus_stop,golden west-garden grove
+33.7589723,-118.0128932,highway,bus_stop,westminster-westmart
+33.7593547,-117.967722,highway,bus_stop,westminster-atlantis
+33.7595166,-118.0364645,highway,bus_stop,westminster-university
+33.7592502,-118.0048699,highway,bus_stop,westminster-locust
+33.7602008,-118.0424356,highway,bus_stop,bolsa chica-westminster
+33.7736531,-118.0008503,highway,bus_stop,garden grove-western
+33.7710035,-118.00719,highway,bus_stop,golden west-lisa
+33.7589215,-118.0184202,highway,bus_stop,westminster-willow
+33.7591369,-118.0303363,highway,bus_stop,westminster-hammon
+33.759327,-118.0420216,highway,bus_stop,westminster-bolsa chica
+33.7660307,-117.9900862,highway,bus_stop,beach-trask
+33.77358,-118.0083692,highway,bus_stop,garden grove-golden west
+33.7605825,-118.0073744,highway,bus_stop,golden west-wyoming
+33.7590272,-118.00118,highway,bus_stop,westminster-olive
+33.7593437,-117.9942763,highway,bus_stop,westminster-jasperson
+33.7597093,-118.0070147,highway,bus_stop,golden west-westminster
+33.7591404,-118.0184905,highway,bus_stop,westminster-willow
+33.7738306,-118.0285634,highway,bus_stop,garden grove-ent 5772 los alisos
+33.7739764,-118.019506,highway,bus_stop,garden grove-seneca
+33.7660882,-118.0074133,highway,bus_stop,golden west-trask
+33.7590027,-118.0059908,highway,bus_stop,westminster-golden west
+33.7588775,-118.0253952,highway,bus_stop,westminster-springdale
+33.7666246,-118.0424194,highway,bus_stop,bolsa chica-duncannon
+33.7595706,-118.0423138,highway,bus_stop,westminster-bolsa chica
+33.7736646,-117.9952922,highway,bus_stop,garden grove-village center
+33.7592691,-118.0082134,highway,bus_stop,westminster-golden west
+33.7737646,-118.0132601,highway,bus_stop,garden grove-palomar
+33.7727373,-118.00722,highway,bus_stop,golden west-garden grove
+33.7592093,-118.0329702,highway,bus_stop,westminster-milan
+33.7594737,-118.0336995,highway,bus_stop,westminster-milan
+33.7590909,-117.9943062,highway,bus_stop,westminster-cedarwood
+33.7592493,-118.00102,highway,bus_stop,westminster-olive
+33.7622176,-117.9898652,highway,bus_stop,beach-21st
+33.7737679,-118.019194,highway,bus_stop,garden grove-seneca
+33.7668825,-118.0071639,highway,bus_stop,golden west-trask
+33.7590814,-118.0265181,highway,bus_stop,westminster-bush
+33.766847,-117.9899396,highway,bus_stop,beach-trask
+33.7736486,-117.9981995,highway,bus_stop,garden grove-hoover
+33.7624367,-118.0073673,highway,bus_stop,golden west-westpark
+33.7589537,-118.0161504,highway,bus_stop,westminster-edwards
+33.7593107,-117.970913,highway,bus_stop,westminster-magnolia
+33.7591707,-118.0163522,highway,bus_stop,westminster-edwards
+33.7596106,-118.0427514,highway,bus_stop,bolsa chica-westminster
+33.7736043,-118.003907,highway,bus_stop,garden grove-eagle
+33.7711268,-118.0074574,highway,bus_stop,golden west-hood
+33.7590509,-117.997528,highway,bus_stop,westminster-hoover
+33.7592615,-117.9981904,highway,bus_stop,westminster-hoover
+33.7569007,-118.0424541,highway,bus_stop,bolsa chica-st james
+33.7377446,-117.9603108,highway,bus_stop,mcfadden-swallow
+33.7375722,-117.9599137,highway,bus_stop,mcfadden-narcissus
+33.730159,-117.9798089,highway,bus_stop,edinger-newland
+33.725801,-117.9721829,highway,bus_stop,magnolia-foxglove
+33.7376257,-117.9767892,highway,bus_stop,mcfadden-eden
+33.726161,-117.9890088,highway,bus_stop,beach-macdonald
+33.7447684,-117.9966213,highway,bus_stop,bolsa-temple
+33.7379833,-117.9464587,highway,bus_stop,mcfadden-ward
+33.7483852,-118.0071992,highway,bus_stop,golden west-sowell
+33.7465728,-118.015444,highway,bus_stop,mall ring-mar vista
+33.7374281,-117.9802905,highway,bus_stop,mcfadden-newland
+33.7489439,-118.0068995,highway,bus_stop,golden west-sowell
+33.7553164,-117.9898145,highway,bus_stop,beach-13th
+33.737473,-117.9999818,highway,bus_stop,mcfadden-vermont
+33.7480821,-117.9893492,highway,bus_stop,beach-madison
+33.7532265,-118.0424729,highway,bus_stop,bolsa chica-churchill
+33.7377669,-117.9580306,highway,bus_stop,mcfadden-belgrade
+33.7409732,-117.9720689,highway,bus_stop,magnolia-bishop
+33.7375577,-117.9628231,highway,bus_stop,mcfadden-bushard
+33.7404726,-117.9896315,highway,bus_stop,beach-elmore
+33.727411,-117.9721741,highway,bus_stop,magnolia-mint
+33.7559232,-118.0069751,highway,bus_stop,golden west-main
+33.7238266,-117.9889521,highway,bus_stop,beach-heil
+33.7377627,-117.9489848,highway,bus_stop,mcfadden-yorkshire
+33.7304526,-117.9675551,highway,bus_stop,edinger-sweetleaf
+33.7520747,-118.0072226,highway,bus_stop,golden west-hazard
+33.7373788,-117.9881831,highway,bus_stop,mcfadden-beach
+33.7453116,-118.0068162,highway,bus_stop,golden west-bolsa
+33.7375575,-117.9888775,highway,bus_stop,mcfadden-beach
+33.7493653,-117.9724921,highway,bus_stop,magnolia-sinclair
+33.744609,-118.0118247,highway,bus_stop,bolsa-victoria
+33.7456028,-118.0155668,highway,bus_stop,edwards-mar vista
+33.7375171,-117.9690267,highway,bus_stop,mcfadden-oakcliff
+33.7522614,-118.0069401,highway,bus_stop,golden west-hazard
+33.7372268,-117.9722892,highway,bus_stop,magnolia-mcfadden
+33.7376692,-117.9691596,highway,bus_stop,mcfadden-oakcliff
+33.7550814,-118.0072776,highway,bus_stop,golden west-main
+33.7445196,-117.9962281,highway,bus_stop,bolsa-temple
+33.7554232,-118.0052514,highway,bus_stop,main-locust
+33.7415808,-118.0068086,highway,bus_stop,golden west-georgetown
+33.7375818,-117.9839138,highway,bus_stop,mcfadden-wilson
+33.7417301,-117.9892799,highway,bus_stop,beach-elmore
+33.7446361,-118.0075084,highway,bus_stop,bolsa-golden west
+33.7378255,-117.9523442,highway,bus_stop,mcfadden-nottingham
+33.7304333,-117.9812418,highway,bus_stop,edinger-newland
+33.7341276,-117.9719681,highway,bus_stop,magnolia-trini
+33.7374911,-117.9725067,highway,bus_stop,mcfadden-magnolia
+33.7478634,-117.989715,highway,bus_stop,beach-madison
+33.7339352,-117.9722729,highway,bus_stop,magnolia-emerald
+33.7560565,-117.9894114,highway,bus_stop,beach-13th
+33.7377126,-117.9641042,highway,bus_stop,mcfadden-bushard
+33.7375984,-117.957697,highway,bus_stop,mcfadden-belgrave
+33.730182,-117.9755627,highway,bus_stop,edinger-quartz
+33.7581543,-118.0073189,highway,bus_stop,golden west-westminster
+33.7444955,-118.0017251,highway,bus_stop,bolsa-golden west circle
+33.7237915,-117.9721141,highway,bus_stop,magnolia-heil
+33.7377095,-118.006765,highway,bus_stop,golden west-mcfadden
+33.7448303,-117.9888385,highway,bus_stop,bolsa-beach
+33.7376019,-117.9813812,highway,bus_stop,mcfadden-newland
+33.744769,-118.0016221,highway,bus_stop,bolsa-chestnut
+33.7378979,-117.9496036,highway,bus_stop,mcfadden-yorkshire
+33.7304141,-117.9763304,highway,bus_stop,edinger-quartz
+33.7374724,-117.9760476,highway,bus_stop,mcfadden-eden
+33.751666,-117.9897465,highway,bus_stop,beach-hazard
+33.7374379,-118.0039008,highway,bus_stop,mcfadden-vassar
+33.7529259,-117.9894536,highway,bus_stop,beach-hazard
+33.7440516,-117.9724039,highway,bus_stop,magnolia-bolsa
+39.8570721,-105.0538541,amenity,bus_station,us 36 & sheridan station gate a
+39.8565653,-105.0564979,highway,bus_stop,w 88th ave & benton st
+39.8563204,-105.0603718,highway,bus_stop,5800 block 88th ave
+39.8566442,-105.0614635,highway,bus_stop,w 88th ave & harlan st
+39.8589435,-105.064086,highway,bus_stop,9000 block harlan st
+39.8566486,-105.0671463,highway,bus_stop,w 88th ave & lamar dr
+39.8566722,-105.0747292,highway,bus_stop,w 88th ave & pierce st
+39.8566287,-105.0770452,highway,bus_stop,w 88th ave & teller st
+39.8565593,-105.0827386,highway,bus_stop,w 88th ave & wadsworth blvd
+39.8564228,-105.0896271,highway,bus_stop,w 88th ave & w 87th dr
+39.856411,-105.0937966,highway,bus_stop,w 88th ave & dover st
+39.8564674,-105.098701,highway,bus_stop,w 88th ave & field st
+39.8564961,-105.1010604,highway,bus_stop,w 88th ave & garrison st
+39.8565234,-105.1041602,highway,bus_stop,w 88th ave & independence st
+-31.8667932,115.8292047,highway,bus_stop,wanneroo rd after amberley wy
+-31.8690536,115.8301218,highway,bus_stop,wanneroo rd after main st
+42.5031978,-71.8859001,highway,bus_stop,wachusett shuttle stop
+39.8453772,-105.0533021,highway,bus_stop,unknown
+39.8422506,-105.0531036,highway,bus_stop,unknown
+39.8460912,-105.0531649,highway,bus_stop,unknown
+33.7540471,-117.9725225,highway,bus_stop,magnolia-mcclure
+51.513355,-0.0908549,amenity,restaurant,coq d'argent
+51.5117911,-0.0931398,amenity,restaurant,chatora city
+51.5112388,-0.0794148,amenity,restaurant,kirin
+51.5132553,-0.0947404,amenity,restaurant,ping pong
+51.5118712,-0.0937202,amenity,restaurant,thai square
+51.5169781,-0.1076198,amenity,restaurant,pizzaexpress
+51.5165567,-0.1110982,amenity,restaurant,the chancery
+51.5158982,-0.1080904,amenity,restaurant,the refinery
+51.5156512,-0.1086168,amenity,restaurant,natural kitchen
+51.5133205,-0.0999854,amenity,restaurant,yo! sushi
+51.5127516,-0.083609,amenity,restaurant,pizzaexpress
+51.5154484,-0.0755052,amenity,restaurant,asta 3
+51.5202933,-0.0811838,amenity,restaurant,piccolino
+51.5148965,-0.0782269,amenity,restaurant,fora restaurant
+51.5188341,-0.0792231,amenity,restaurant,pizzaexpress
+51.5094421,-0.0841004,amenity,restaurant,the rajasthan i
+51.5125041,-0.0988759,amenity,restaurant,miyama
+51.5115315,-0.0754346,amenity,restaurant,the crosswall
+51.5098153,-0.0783932,amenity,restaurant,traitor's gate
+51.5127258,-0.0852031,amenity,restaurant,gaucho
+51.5125079,-0.0831888,amenity,restaurant,we grill
+51.5127036,-0.0832797,amenity,restaurant,la tasca
+51.5127807,-0.0833059,amenity,restaurant,osteria del mercato
+51.510634,-0.077099,amenity,restaurant,keepers
+51.5088796,-0.0789428,amenity,restaurant,wagamama
+51.5089063,-0.0790823,amenity,restaurant,dream xi'an
+51.51122,-0.0776408,amenity,restaurant,orpheus
+51.51072,-0.080403,amenity,restaurant,china delight
+51.5121056,-0.0791858,amenity,restaurant,cafe brera
+51.5126115,-0.0836564,amenity,restaurant,chamberlain's
+51.5121986,-0.083673,amenity,restaurant,giorgio
+51.5132501,-0.0997714,amenity,restaurant,pizzaexpress
+51.5128943,-0.1094514,amenity,restaurant,pegasus
+51.5147056,-0.1092953,amenity,restaurant,the india - fleet street
+51.5105459,-0.0793701,amenity,restaurant,the lampery
+51.512412,-0.075709,amenity,restaurant,thai square
+51.5152012,-0.0751222,amenity,restaurant,barcelona tapas
+51.5108253,-0.0845519,amenity,restaurant,atis
+51.51201,-0.08915,amenity,restaurant,bibimbap
+51.5131003,-0.0889797,amenity,restaurant,1 lombard street
+51.513987,-0.085556,amenity,restaurant,wheeler's rib room and oyster bar
+51.5117846,-0.1081089,amenity,restaurant,tempio bar & restaurant
+51.5145763,-0.0996723,amenity,restaurant,paternoster chop house
+51.5190326,-0.0898678,amenity,restaurant,the cuban
+51.5097295,-0.0787496,amenity,restaurant,bodean's
+51.5103728,-0.0833866,amenity,restaurant,k place
+51.511151,-0.0790157,amenity,restaurant,le paris grill
+51.5140407,-0.0908026,amenity,restaurant,browns
+51.5180932,-0.1002995,amenity,hospital_department,gamma knife & reproductive medice
+51.5151325,-0.0965337,amenity,restaurant,haz st paul's
+51.5166596,-0.1111115,amenity,restaurant,vanilla black
+51.51714,-0.107769,amenity,restaurant,guido's
+51.5131634,-0.0941578,amenity,restaurant,kurumaya
+51.509227,-0.0800317,amenity,restaurant,zizzi
+51.5109803,-0.0816178,amenity,restaurant,camino
+51.5210895,-0.0926896,amenity,restaurant,côte brasserie
+51.5196784,-0.0847176,amenity,restaurant,nyokee
+51.5101313,-0.0842444,amenity,restaurant,l'antipasto city
+51.5130738,-0.092593,amenity,restaurant,k10
+51.5143849,-0.0864373,amenity,restaurant,brasserie blanc
+51.5137835,-0.0863464,amenity,restaurant,panino gusto
+51.5163838,-0.0878586,amenity,restaurant,one moorgate place
+51.5144903,-0.0840663,amenity,restaurant,piazza italiana
+51.5143246,-0.085187,amenity,restaurant,burger & lobster
+51.5164859,-0.078969,amenity,restaurant,appennino
+51.516441,-0.0787985,amenity,restaurant,enoteca da luca
+51.5171415,-0.079769,amenity,restaurant,fish market
+51.5173594,-0.0816951,amenity,restaurant,1901
+51.5173794,-0.0817622,amenity,restaurant,eastway
+51.5161459,-0.0812372,amenity,restaurant,sushi samba
+51.5162092,-0.0810446,amenity,restaurant,duck & waffle
+51.5113168,-0.0816323,amenity,restaurant,haz plantation place
+51.515691,-0.0790092,amenity,restaurant,haz wine & dine
+51.5120075,-0.0834784,amenity,restaurant,nando's
+51.511838,-0.0835891,amenity,restaurant,barcelona
+51.5117152,-0.0832168,amenity,restaurant,momo canteen
+51.5169075,-0.0801505,amenity,restaurant,three uncles
+51.5171424,-0.078597,amenity,restaurant,cinnamon kitchen
+51.5169755,-0.0783952,amenity,restaurant,devonshire terrace
+51.5170552,-0.0794389,amenity,restaurant,new street grill
+51.5175765,-0.0781411,amenity,restaurant,london steakhouse co
+51.5173166,-0.0826172,amenity,restaurant,patty & bun
+51.5135271,-0.1002773,amenity,restaurant,franco manca
+51.5140359,-0.1058433,amenity,restaurant,cord
+51.5140183,-0.0950175,amenity,restaurant,madison
+51.5142317,-0.0907172,amenity,restaurant,goodmans city
+51.5228655,-0.0977285,amenity,restaurant,people's choice cafe
+51.518173,-0.0802503,amenity,restaurant,honi poke
+51.5182442,-0.0802172,amenity,restaurant,jwd lamian
+51.5180574,-0.0791882,amenity,restaurant,naniwa
+51.5179688,-0.0792995,amenity,restaurant,boisdale
+51.5144556,-0.0864955,amenity,restaurant,m bar & grill
+51.513831,-0.1045571,amenity,restaurant,indian city
+51.5189954,-0.0898031,amenity,restaurant,bad egg
+51.5163649,-0.0782914,amenity,restaurant,pitt cue
+51.5185352,-0.0786177,amenity,restaurant,canto corvino
+51.5186827,-0.0836721,amenity,restaurant,franco manca
+51.5186497,-0.083303,amenity,restaurant,fogg's city tavern
+51.5188085,-0.0837418,amenity,restaurant,comptoir libanais
+51.5188184,-0.0831719,amenity,restaurant,jose pizarro
+51.5149431,-0.1024935,amenity,restaurant,shugetsu
+51.5196885,-0.0903759,amenity,restaurant,pham sushi
+51.5187875,-0.0868297,amenity,restaurant,bread street kitchen & bar
+51.5120426,-0.0829876,amenity,restaurant,bolton's restaurant
+51.5135637,-0.0807327,amenity,restaurant,caravaggio
+51.5146457,-0.0847648,amenity,restaurant,rocket
+51.5150841,-0.091359,amenity,restaurant,the trading house
+51.5155147,-0.0909278,amenity,restaurant,enoteca da luca
+51.5192305,-0.0795951,amenity,restaurant,jamies wine bar
+51.5133839,-0.0782334,amenity,restaurant,omnino
+51.5129085,-0.0837349,amenity,restaurant,butcher
+51.5111359,-0.0841869,amenity,restaurant,spice trader
+51.5099858,-0.0859874,amenity,restaurant,al dente
+51.5129237,-0.0850193,amenity,restaurant,bangalore express
+51.5135163,-0.0937777,amenity,restaurant,taberna etrusca
+51.5146364,-0.1032884,amenity,restaurant,obicà
+51.5124464,-0.098566,amenity,restaurant,mangio
+51.5120383,-0.0937282,amenity,restaurant,nyokee
+51.5194111,-0.0983217,amenity,restaurant,disappearing dining club
+51.5147451,-0.1051801,amenity,restaurant,1az turkish
+51.5154619,-0.1091644,amenity,restaurant,master dough
+51.5112659,-0.0837366,amenity,restaurant,skygarden - darwin brasserie
+51.51123,-0.0837459,amenity,restaurant,skygarden - fenchurch restaurant
+51.5145119,-0.1097204,amenity,restaurant,clifford's
+51.5121599,-0.1048042,amenity,restaurant,chinese cricket club
+51.516899,-0.0787171,amenity,restaurant,mac and wild
+51.5127038,-0.1070763,amenity,restaurant,natural kitchen
+51.5137663,-0.0736683,amenity,restaurant,marqusa
+51.5151522,-0.0962783,amenity,restaurant,rucoletta deli
+51.5121916,-0.0924836,amenity,restaurant,homeslice
+51.5119761,-0.0911375,amenity,restaurant,caravan
+51.5120591,-0.0907739,amenity,restaurant,vinoteca
+51.5177431,-0.07833,amenity,restaurant,franco manca
+51.5195083,-0.0846072,amenity,restaurant,bar douro
+51.5194298,-0.0846536,amenity,restaurant,baraka
+51.516884,-0.0828326,amenity,restaurant,the ivy
+51.5122096,-0.0915275,amenity,restaurant,koya
+51.5106651,-0.0807214,amenity,restaurant,k10
+51.5122026,-0.0839984,amenity,restaurant,badolina
+51.5126188,-0.091782,amenity,restaurant,brigadiers
+51.5124503,-0.0919606,amenity,restaurant,bao city
+51.5148639,-0.0872406,amenity,restaurant,coya
+51.5171058,-0.0882479,amenity,restaurant,post office (take away)
+51.5108433,-0.0780037,amenity,restaurant,natural kitchen
+51.5189931,-0.0898621,amenity,restaurant,spagbowl
+51.5142353,-0.0742784,amenity,restaurant,satyrio
+51.5128692,-0.08687,amenity,restaurant,honest burger
+51.5110863,-0.0842148,amenity,restaurant,murger han city
+51.5096348,-0.0810362,amenity,restaurant,banhmi city
+51.5138635,-0.089512,amenity,restaurant,the ned
+51.5160121,-0.0772888,amenity,restaurant,fazenda
+51.515513,-0.0872469,amenity,restaurant,natural kitchen
+51.51519,-0.0970151,amenity,restaurant,rolled
+51.5153389,-0.0753397,amenity,restaurant,sfoglia bologna
+51.5141538,-0.0744667,amenity,restaurant,royal kitchen
+51.512858,-0.095215,amenity,restaurant,bread street kitchen
+51.5142985,-0.0761219,amenity,restaurant,vq
+51.5184305,-0.0790288,amenity,restaurant,street greek
+51.518727,-0.0987578,amenity,restaurant,stem + glory
+51.5101377,-0.0779246,amenity,restaurant,mei ume
+51.5187415,-0.0801147,amenity,restaurant,eataly
+51.5098598,-0.0803913,amenity,restaurant,skewered
+51.5154081,-0.07557,amenity,restaurant,mattarello bolognese
+51.5167675,-0.079732,amenity,restaurant,café luca
+51.5137823,-0.0960979,amenity,restaurant,the ivy asia
+51.5107546,-0.0830837,amenity,music_school,london city brass
+51.5103561,-0.0751511,amenity,restaurant,cento alla torre
+51.518832,-0.079745,amenity,restaurant,pizzaexpress
+51.518947,-0.0794948,amenity,restaurant,nest bar and kitchen
+51.5187959,-0.0795741,amenity,restaurant,honi poke
+51.5180985,-0.0794328,amenity,restaurant,truffle burger
+51.512126,-0.0909107,amenity,restaurant,lina stores
+51.5172751,-0.0821849,amenity,restaurant,jamaica patty co
+51.5132865,-0.1013608,amenity,restaurant,donburi
+51.5181206,-0.0986307,amenity,restaurant,half cup
+51.5114211,-0.0774395,amenity,restaurant,munich cricket club
+51.5137749,-0.10903,amenity,restaurant,chambers
+51.5122603,-0.0808248,amenity,restaurant,14 hills
+51.5142644,-0.0860159,amenity,restaurant,the salad project
+51.5105439,-0.081697,amenity,restaurant,haz plantation place
+51.5121863,-0.1044984,amenity,restaurant,the leaf and cane
+51.5123017,-0.1045254,amenity,restaurant,city lounge
+51.5141095,-0.1080711,amenity,restaurant,"garbanzos falafel, hummus & salad bar (fleet street)"
+51.5155389,-0.0907643,amenity,restaurant,hawksmoor
+51.5133332,-0.0949533,amenity,restaurant,street pizza
+51.5129613,-0.0778583,amenity,restaurant,farmer j
+51.5129655,-0.0758579,amenity,restaurant,cloud land
+51.5179009,-0.1104704,amenity,restaurant,shoo loong kan hotpot london
+51.5128182,-0.0937366,amenity,restaurant,eatviet
+51.5127654,-0.0937438,amenity,restaurant,stem + stem
+51.5127135,-0.0937602,amenity,restaurant,pali kitchen
+51.5155458,-0.0804749,amenity,restaurant,fazenda
+51.5163287,-0.1027271,amenity,restaurant,leydi
+51.5099581,-0.0858751,amenity,restaurant,papi's munchies
+51.5136065,-0.0863455,amenity,restaurant,lasagneria
+51.5149913,-0.0873647,amenity,restaurant,temper restaurants city of london
+51.5183819,-0.0789866,amenity,restaurant,roti king
+51.5108697,-0.0841331,amenity,restaurant,blacklock city
+51.5179318,-0.0836589,amenity,restaurant,los mochis london city
+51.5136605,-0.0736304,amenity,restaurant,wang gui ren hot pot
+51.5105045,-0.084044,amenity,restaurant,the alchemist
+51.512941,-0.092999,amenity,restaurant,acer
+51.5170055,-0.1078236,amenity,restaurant,hotori
+51.5167743,-0.0788213,amenity,restaurant,köd
+51.5126506,-0.083647,amenity,restaurant,mrbl
+51.5127141,-0.078871,leisure,fitness_centre,fitness first
+51.5125242,-0.0848775,shop,supermarket,amazon fresh
+51.511247,-0.076255,leisure,fitness_centre,fitness first
+51.5117385,-0.0970366,leisure,fitness_centre,fitness first
+51.5096752,-0.0914835,leisure,fitness_centre,nuffield health fitness & wellbeing
+51.5105644,-0.0925666,leisure,fitness_centre,f45 training
+51.5179134,-0.0844427,shop,supermarket,amazon fresh
+51.5185695,-0.0840269,leisure,fitness_centre,fitness first
+51.5169937,-0.0787735,leisure,fitness_centre,fitness first
+51.5150418,-0.0829711,leisure,fitness_centre,fitness first
+51.5116036,-0.0862991,leisure,fitness_centre,cyclebeat
+51.5112981,-0.0846292,leisure,fitness_centre,fitness first
+51.5117478,-0.0903972,leisure,fitness_centre,virgin active
+51.5198011,-0.0967055,shop,supermarket,geranium
+51.5175023,-0.0807859,leisure,fitness_centre,fitness first
+51.5178552,-0.0974636,leisure,fitness_centre,virgin active
+51.5145187,-0.0771143,leisure,fitness_centre,puregym
+51.5172018,-0.0983287,leisure,fitness_centre,puregym
+51.5174713,-0.088064,leisure,fitness_centre,light centre moorgate
+51.5104221,-0.0897478,leisure,fitness_centre,gymbox
+51.5102447,-0.0805639,leisure,fitness_centre,third space
+51.5170257,-0.0881139,leisure,fitness_centre,puregym
+51.5186453,-0.0801583,shop,supermarket,eataly
+51.5177653,-0.0830452,leisure,fitness_centre,john reed fitness
+51.5197188,-0.0897096,leisure,fitness_centre,nuffield health fitness & wellbeing
+51.5104577,-0.0831381,leisure,fitness_centre,roar
+51.5118924,-0.0952228,railway,station,mansion house
+51.5152733,-0.1046794,highway,bus_stop,fleet street / city thameslink
+51.5174349,-0.0806135,highway,bus_stop,liverpool street station
+51.5179924,-0.1051321,highway,bus_stop,snow hill
+51.5134333,-0.0881305,railway,subway_entrance,"bank station, exit 4"
+51.5106598,-0.1041738,highway,bus_stop,blackfriars station / north entrance
+51.5138713,-0.0965761,highway,bus_stop,new change / cannon street
+51.5152356,-0.0984732,highway,bus_stop,st paul's station
+51.5149257,-0.0752245,highway,bus_stop,st botolph street
+51.5127663,-0.0755596,highway,bus_stop,minories
+51.5141469,-0.0747599,highway,bus_stop,aldgate station
+51.5133627,-0.0874589,highway,bus_stop,bank station / cornhill
+51.5132793,-0.087615,highway,bus_stop,bank station / cornhill
+51.5122269,-0.0880172,highway,bus_stop,bank station / king william street
+51.5199162,-0.0977434,highway,bus_stop,barbican
+51.512217,-0.1025194,highway,bus_stop,blackfriars station
+51.5120078,-0.1027533,highway,bus_stop,blackfriars station
+51.5123878,-0.1042751,highway,bus_stop,blackfriars station / north entrance
+51.5134997,-0.1041377,highway,bus_stop,apothecary street
+51.5114477,-0.1020977,highway,bus_stop,blackfriars station
+51.5114084,-0.087137,highway,bus_stop,king william street / monument station
+51.5107942,-0.0849072,highway,bus_stop,monument station
+51.5122502,-0.0849754,highway,bus_stop,fenchurch street
+51.5113694,-0.0855789,highway,bus_stop,gracechurch street / monument station
+51.511351,-0.0853918,highway,bus_stop,fenchurch street
+51.5106773,-0.0851725,highway,bus_stop,monument station
+51.5186315,-0.0881265,highway,bus_stop,moorgate station
+51.5177863,-0.0884081,highway,bus_stop,moorgate station
+51.5178803,-0.0826904,highway,bus_stop,liverpool street station
+51.5180364,-0.0826019,highway,bus_stop,liverpool street station
+51.518127,-0.0825546,highway,bus_stop,liverpool street station
+51.5182528,-0.0824979,highway,bus_stop,liverpool street station
+51.5180772,-0.0799586,highway,bus_stop,liverpool street station
+51.5157403,-0.0999169,highway,bus_stop,king edward street
+51.5150449,-0.0978521,highway,bus_stop,st paul's station
+51.515543,-0.0970327,highway,bus_stop,st paul's station
+51.5144294,-0.0956865,highway,bus_stop,st paul's station
+51.5172636,-0.0805711,highway,bus_stop,liverpool street station
+51.5185559,-0.0797461,highway,bus_stop,liverpool street station
+51.5126558,-0.0948153,highway,bus_stop,mansion house station
+51.5121219,-0.0946902,highway,bus_stop,mansion house station
+51.5169254,-0.1036938,highway,bus_stop,city thameslink station
+51.5165025,-0.1028863,highway,bus_stop,city thameslink station
+51.5104613,-0.0750486,highway,bus_stop,tower gateway station
+51.5107986,-0.0751435,highway,bus_stop,tower gateway station
+51.5161403,-0.0975379,highway,bus_stop,angel street
+51.5207704,-0.0941673,highway,bus_stop,beech street
+51.5104006,-0.090147,highway,bus_stop,cannon street station
+51.5096647,-0.0875762,highway,bus_stop,london bridge
+51.5159113,-0.0811656,highway,bus_stop,bishopsgate
+51.5158325,-0.0821223,highway,bus_stop,camomile street
+51.516309,-0.0822139,highway,bus_stop,wormwood street
+51.5161855,-0.082672,highway,bus_stop,wormwood street
+51.5180324,-0.1053424,highway,bus_stop,snow hill
+51.5145853,-0.0785882,highway,bus_stop,duke's place
+51.5142214,-0.1087338,highway,bus_stop,fetter lane
+51.514152,-0.1083219,highway,bus_stop,fetter lane
+51.5159897,-0.0891166,highway,bus_stop,great swan alley
+51.509925,-0.0811685,highway,bus_stop,great tower street
+51.5099515,-0.0815005,highway,bus_stop,great tower street
+51.513755,-0.0916123,highway,bus_stop,bank station / poultry
+51.5135647,-0.0910865,highway,bus_stop,poultry / bank station
+51.5177487,-0.1087507,highway,bus_stop,holborn circus / fetter lane
+51.5178204,-0.109385,highway,bus_stop,holborn circus / fetter lane
+51.5175746,-0.1060007,highway,bus_stop,holborn circus
+51.5160329,-0.0797087,highway,bus_stop,houndsditch
+51.5110991,-0.109334,highway,bus_stop,temple avenue
+51.5165565,-0.0986455,highway,bus_stop,king edward street / st paul's station
+51.5138407,-0.1010349,highway,bus_stop,st paul's cathedral
+51.5139541,-0.1019016,highway,bus_stop,ludgate hill / old bailey
+51.509521,-0.0873094,highway,bus_stop,monument station
+51.5094616,-0.086998,highway,bus_stop,monument station
+51.5141329,-0.0838965,highway,bus_stop,threadneedle street
+51.5138411,-0.0838991,highway,bus_stop,threadneedle street
+51.5128246,-0.0733002,highway,bus_stop,mansell street
+51.515584,-0.0894348,highway,bus_stop,london wall
+51.5110107,-0.1102178,highway,bus_stop,temple avenue
+51.5175768,-0.0951951,highway,bus_stop,london wall
+51.5188725,-0.0972387,highway,bus_stop,museum of london
+51.5174023,-0.0951159,highway,bus_stop,london wall
+51.5156242,-0.0842733,highway,bus_stop,great winchester street
+51.5153073,-0.0844124,highway,bus_stop,great winchester street
+51.5134935,-0.0962691,highway,bus_stop,new change / cannon street
+51.5130352,-0.0974829,highway,bus_stop,st paul's churchyard
+51.5142602,-0.0852149,highway,bus_stop,old broad street
+51.5141087,-0.0855705,highway,bus_stop,old broad street
+51.5142474,-0.0896183,highway,bus_stop,bank station / princes street
+51.5140077,-0.0892554,highway,bus_stop,bank station / princes street
+51.5116195,-0.0826381,highway,bus_stop,rood lane
+51.511561,-0.082162,highway,bus_stop,rood lane
+51.5099713,-0.0933149,highway,bus_stop,queen street place
+51.5199522,-0.0791298,highway,bus_stop,primrose street
+51.5142493,-0.1053369,highway,bus_stop,ludgate circus
+51.5141426,-0.1066769,highway,bus_stop,shoe lane
+51.5174843,-0.1012598,highway,bus_stop,st bartholomew's hospital
+51.5148933,-0.104359,highway,bus_stop,fleet street / city thameslink
+51.5113044,-0.0890207,highway,bus_stop,cannon street station
+51.511843,-0.0911173,highway,bus_stop,cannon street station
+51.5182021,-0.1122349,highway,bus_stop,chancery lane station
+51.5129246,-0.0911482,highway,bus_stop,bank station / queen victoria street
+51.5128795,-0.0917463,highway,bus_stop,bank station / queen victoria street
+51.5135215,-0.082698,highway,bus_stop,st mary axe
+51.5134381,-0.0824137,highway,bus_stop,st mary axe
+51.5144954,-0.0857468,highway,bus_stop,threadneedle street
+51.5131894,-0.0975055,highway,bus_stop,st paul's cathedral
+51.5133193,-0.0995833,highway,bus_stop,st paul's cathedral
+51.5133225,-0.0787288,highway,bus_stop,st katharine cree
+51.51326,-0.0791636,highway,bus_stop,st katharine cree
+51.5168513,-0.1067355,highway,bus_stop,st andrew street
+51.5088324,-0.1045118,highway,bus_stop,blackfriars station / south entrance
+51.5084261,-0.1042773,highway,bus_stop,blackfriars station / south entrance
+51.513857,-0.1104331,highway,bus_stop,chancery lane
+51.5134486,-0.0849933,highway,bus_stop,bishopsgate
+51.5175173,-0.1065289,highway,bus_stop,holborn circus
+51.5141957,-0.0949795,highway,bus_stop,bread street
+51.521799,-0.0806378,highway,bus_stop,worship street
+51.5186059,-0.0855017,highway,bus_stop,eldon street
+51.5120528,-0.0992195,highway,bus_stop,millennium bridge
+51.5118786,-0.0979594,highway,bus_stop,millennium bridge
+51.51344,-0.0902804,railway,subway_entrance,"bank station, exit g"
+51.5173672,-0.080354,railway,train_station_entrance,bishopsgate (east)
+51.5171863,-0.0830154,railway,subway_entrance,old broad street
+51.5177298,-0.0811754,railway,subway_entrance,unknown
+51.5184769,-0.0882457,railway,subway_entrance,moorgate (west side)
+51.5177725,-0.082344,railway,subway_entrance,unknown
+51.5104525,-0.0859883,railway,subway_entrance,fish street hill
+51.5140935,-0.0755249,railway,subway_entrance,aldgate
+51.5179967,-0.082467,railway,subway_entrance,unknown
+51.5123746,-0.0932415,railway,subway_entrance,unknown
+51.5124088,-0.0943162,railway,subway_entrance,mansion house
+51.5166866,-0.0848527,highway,bus_stop,all hallows church
+51.5131048,-0.0893749,railway,station,bank
+51.5181007,-0.1115047,railway,subway_entrance,barnards inn
+51.5181134,-0.111605,railway,subway_entrance,chancery lane
+51.5149482,-0.0976011,railway,subway_entrance,st. paul's
+51.512205,-0.0937994,railway,subway_entrance,mansion house
+51.5209385,-0.091734,highway,bus_stop,silk street
+51.5133574,-0.0902138,railway,subway_entrance,"bank station, exit 9"
+51.511678,-0.103896,railway,subway_entrance,blackfriars station
+51.5105927,-0.0747762,railway,subway_entrance,tower gateway dlr station
+51.522208,-0.0973996,highway,bus_stop,baltic street west
+51.520174,-0.0975626,railway,subway_entrance,unknown
+51.5106911,-0.0865591,railway,subway_entrance,monument
+51.5109164,-0.0869669,railway,subway_entrance,monument
+51.5109461,-0.0864492,railway,subway_entrance,monument
+51.5113607,-0.0906107,railway,subway_entrance,cannon street
+51.51358,-0.0881748,railway,subway_entrance,"bank station, exit 3"
+51.5134264,-0.0892088,railway,subway_entrance,"bank station, exit 1"
+51.513507,-0.0891244,railway,subway_entrance,"bank station, exit 1"
+51.513154,-0.0898307,railway,subway_entrance,"bank station, exit 8"
+51.5184049,-0.0879601,railway,subway_entrance,moorgate (east side)
+51.5185311,-0.0885115,railway,subway_entrance,moorfields
+51.5201797,-0.0986342,railway,station,barbican
+51.5181738,-0.1117642,railway,station,chancery lane
+51.5106328,-0.0861271,railway,station,monument
+51.513866,-0.0753367,highway,bus_stop,aldgate bus station
+51.5178724,-0.0799505,highway,bus_stop,liverpool street station
+51.5174341,-0.0899946,highway,bus_stop,moorgate station
+51.5175949,-0.0897457,highway,bus_stop,london wall / moorgate station
+51.5176305,-0.0980261,highway,bus_stop,little britain
+51.515126,-0.103564,railway,station,city thameslink
+51.5140452,-0.1033445,railway,subway_entrance,unknown
+51.5140262,-0.1035538,railway,subway_entrance,unknown
+51.5163316,-0.1033913,railway,subway_entrance,city thameslink station (north entrance)
+51.5177623,-0.0823494,railway,subway_entrance,unknown
+51.5176777,-0.0825205,railway,station,liverpool street
+51.5182105,-0.0814269,railway,station,london liverpool street
+51.5113812,-0.0903632,railway,station,cannon street
+51.5106685,-0.0906046,railway,station,london cannon street
+51.5140873,-0.1035806,highway,bus_stop,city thameslink station / ludgate circus
+51.5115854,-0.1037671,railway,station,blackfriars
+51.5142477,-0.0757186,railway,station,aldgate
+51.514294,-0.0748142,highway,bus_stop,aldgate station
+51.5126065,-0.0880676,railway,subway_entrance,"bank station, dlr lift r"
+51.5174543,-0.0830072,railway,subway_entrance,unknown
+51.5204571,-0.0975744,highway,bus_stop,barbican station
+51.5208745,-0.0973156,highway,bus_stop,barbican station
+51.518369,-0.0968434,highway,bus_stop,museum of london
+51.5154649,-0.0822292,highway,bus_stop,camomile street
+51.5135583,-0.0888367,railway,subway_entrance,"bank station, exit 2"
+51.5180206,-0.0828001,highway,bus_stop,liverpool street station
+51.5113281,-0.0774191,railway,station,london fenchurch street
+51.5161002,-0.1033444,railway,subway_entrance,city thameslink station (north entrance)
+51.5106583,-0.086503,railway,subway_entrance,king william street (south)
+51.5107676,-0.0864061,railway,subway_entrance,monument
+51.5109815,-0.0866498,railway,subway_entrance,monument
+51.5129893,-0.088285,railway,subway_entrance,"bank station, exit 6"
+51.5127727,-0.0881965,railway,subway_entrance,"bank station, exit p"
+51.5135793,-0.0889254,railway,subway_entrance,"bank station, exit 2"
+51.5131368,-0.089131,railway,subway_entrance,"bank station, exit 7"
+51.5132093,-0.088672,railway,subway_entrance,"bank station, exit 5"
+51.5133069,-0.0886589,railway,subway_entrance,"bank station, exit 5"
+51.5149144,-0.0975883,railway,station,st. paul's
+51.5149649,-0.0970955,railway,subway_entrance,st. paul's
+51.5150872,-0.0971399,railway,subway_entrance,st. paul's
+51.5105943,-0.0730427,railway,subway_entrance,unknown
+51.5182516,-0.0890625,railway,station,moorgate
+51.5180264,-0.106741,highway,bus_stop,holborn circus
+51.5163906,-0.1025248,highway,bus_stop,city thameslink station
+51.5196186,-0.0992843,railway,subway_entrance,barbican
+51.5106288,-0.0739505,railway,station,tower gateway
+51.5135255,-0.0752231,highway,bus_stop,aldgate station
+51.5104871,-0.1032417,railway,station,london blackfriars
+51.518232,-0.0888558,railway,subway_entrance,unknown
+51.517787,-0.0839261,railway,subway_entrance,broadgate
+51.5195303,-0.0996429,railway,subway_entrance,barbican
+51.5196026,-0.0792469,highway,bus_stop,liverpool street station (airport coaches)
+51.5112459,-0.087869,railway,subway_entrance,bank station exit
+51.5180725,-0.0889508,railway,subway_entrance,unknown
+51.5176474,-0.0864414,railway,station,liverpool street
+51.5124038,-0.090428,railway,subway_entrance,"bank station, walbrook exit"

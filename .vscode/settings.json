@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "database": "${workspaceFolder:Housing Int}/real_estate_scraper/database/clean_data.db",
+            "name": "clean_data_db"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
