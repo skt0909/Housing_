@@ -1,3 +1,7 @@
+[build]
+builder = "nixpacks"
+buildCommand = "npm --prefix frontend ci && npm --prefix frontend run build && mkdir -p backend/app/static && cp -r frontend/dist/* backend/app/static/ && pip install -r backend/requirements.txt"
+
 [deploy]
 startCommand = "python -m gunicorn wsgi:app --workers 2 --bind 0.0.0.0:$PORT --chdir /app/backend"
 healthcheckPath = "/api/status"
