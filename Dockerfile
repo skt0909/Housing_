@@ -11,4 +11,4 @@ RUN mkdir -p backend/app/static && cp -r frontend/dist/* backend/app/static/
 RUN pip install --no-cache-dir -r backend/requirements.txt
 ENV FLASK_ENV=production
 EXPOSE 8000
-CMD ["python", "-m", "gunicorn", "wsgi:app", "--workers", "2", "--bind", "0.0.0.0:8000", "--chdir", "/app/backend"]
+CMD exec python -m gunicorn wsgi:app --workers 2 --bind 0.0.0.0:${PORT:-8000} --chdir /app/backend
