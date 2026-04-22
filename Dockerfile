@@ -13,7 +13,7 @@ COPY . .
 COPY --from=frontend-builder /app/frontend/dist ./frontend/dist
 
 # Copy built frontend to Flask static folder
-RUN rm -rf backend/app/static/* && cp -r frontend/dist/* backend/app/static/
+RUN mkdir -p backend/app/static && rm -rf backend/app/static/* && cp -r frontend/dist/* backend/app/static/
 
 # Install Python dependencies
 RUN pip install --no-cache-dir -r backend/requirements.txt
