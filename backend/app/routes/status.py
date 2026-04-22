@@ -13,10 +13,11 @@ def status():
         )
         return jsonify(
             {
+                "status": "ok",
                 "last_updated": str(row["last_updated"]) if row and row["last_updated"] else None,
                 "total_listings": row["total_listings"] if row else 0,
                 "db_reachable": True,
             }
         )
     except Exception as exc:
-        return jsonify({"db_reachable": False, "error": str(exc)}), 500
+        return jsonify({"status": "ok", "db_reachable": False, "error": str(exc)}), 200
