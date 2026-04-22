@@ -1,2 +1,18 @@
 [phases.setup]
 nixPkgs = ["python313", "nodejs_22", "bash"]
+
+[phases.install]
+cmds = [
+  "npm --prefix frontend ci",
+  "pip install -r backend/requirements.txt"
+]
+
+[phases.build]
+cmds = [
+  "npm --prefix frontend run build",
+  "mkdir -p backend/app/static",
+  "cp -r frontend/dist/* backend/app/static/"
+]
+
+[start]
+cmd = "python -m gunicorn wsgi:app --workers 2 --bind 0.0.0.0:$PORT --chdir /app/backend"
