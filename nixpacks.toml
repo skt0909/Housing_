@@ -4,7 +4,8 @@ nixPkgs = ["python313", "nodejs_22", "bash"]
 [phases.install]
 cmds = [
   "npm --prefix frontend ci",
-  "python3 -m pip install -r backend/requirements.txt"
+  "python3 -m pip install --upgrade pip setuptools wheel",
+  "python3 -m pip install --no-cache-dir -r backend/requirements.txt"
 ]
 
 [phases.build]
