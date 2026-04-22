@@ -1,6 +1,3 @@
-[build]
-builder = "nixpacks"
-
 [deploy]
 healthcheckPath = "/api/status"
 restartPolicyType = "on_failure"
