@@ -24,5 +24,6 @@ ENV FLASK_ENV=production
 # Set working directory to backend for Flask
 WORKDIR /app/backend
 
-# Start Flask app (use shell form to expand $PORT)
-CMD gunicorn wsgi:app --workers 2 --bind 0.0.0.0:${PORT:-8000}
+# Start Flask app
+ENTRYPOINT ["/bin/sh", "-c"]
+CMD ["gunicorn wsgi:app --workers 2 --bind 0.0.0.0:${PORT:-8000}"]
