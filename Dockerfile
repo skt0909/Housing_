@@ -20,13 +20,9 @@ RUN pip install --no-cache-dir -r backend/requirements.txt
 
 # Set Flask environment
 ENV FLASK_ENV=production
+ENV PORT=8000
 
-# Copy startup script
-COPY start.sh /app/start.sh
-RUN chmod +x /app/start.sh
-
-# Set working directory to backend for Flask
+# Start Flask app from backend directory
 WORKDIR /app/backend
-
-# Start Flask app
-CMD ["/app/start.sh"]
+EXPOSE 8000
+CMD ["python", "-m", "gunicorn", "wsgi:app", "--workers", "2", "--bind", "0.0.0.0:8000"]
